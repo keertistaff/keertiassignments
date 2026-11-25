@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+<defs>
+  <radialGradient id="techNovaGlow" cx="50%" cy="50%" r="65%">
+    <stop offset="0%" stop-color="#1E3A8A"/>
+    <stop offset="50%" stop-color="#0F172A"/>
+    <stop offset="100%" stop-color="#020617"/>
+  </radialGradient>
+  <linearGradient id="neonBlueCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00D4FF"/>
+    <stop offset="100%" stop-color="#2563EB"/>
+  </linearGradient>
+</defs>
+
+<rect width="1080" height="1080" fill="url(#techNovaGlow)"/>
+
+<!-- Tech Rings -->
+<circle cx="540" cy="580" r="360" fill="none" stroke="#00D4FF" stroke-width="1.5" opacity="0.2" stroke-dasharray="14 6"/>
+<circle cx="540" cy="580" r="460" fill="none" stroke="#00D4FF" stroke-width="1" opacity="0.1"/>
+
+<!-- Header -->
+<g transform="translate(100, 100)">
+  <polygon points="20,0 26,14 40,20 26,26 20,40 14,26 0,20 14,14" fill="#00D4FF"/>
+  <text x="50" y="24" font-family="'Arial Black', sans-serif" font-size="22" fill="#FFFFFF">NOVA</text>
+  <text x="130" y="24" font-family="'Arial', sans-serif" font-weight="bold" font-size="14" letter-spacing="4" fill="#00D4FF">MOBILE</text>
+</g>
+<text x="980" y="125" font-family="'Arial Black', sans-serif" font-size="16" letter-spacing="3" fill="#38BDF8" text-anchor="end">PRE-ORDERS OPEN</text>
+
+<text x="540" y="230" font-family="'Arial Black', sans-serif" font-size="32" letter-spacing="6" fill="#38BDF8" text-anchor="middle">THE NEW DAWN OF POWER</text>
+<text x="540" y="310" font-family="'Arial Black', sans-serif" font-size="78" fill="#FFFFFF" letter-spacing="3" text-anchor="middle">NOVA X1 ULTRA</text>
+
+<!-- Smartphone Illustration (Center) -->
+<g transform="translate(420, 370)">
+  <!-- Titanium Chassis -->
+  <rect x="0" y="0" width="240" height="480" rx="36" fill="#0F172A" stroke="#00D4FF" stroke-width="3"/>
+  <rect x="10" y="10" width="220" height="460" rx="30" fill="#020617"/>
+  <!-- Screen Glow -->
+  <rect x="16" y="16" width="208" height="448" rx="24" fill="url(#neonBlueCyan)" opacity="0.9"/>
+  <circle cx="120" cy="220" r="70" fill="#FFFFFF" opacity="0.2"/>
+  <!-- Dynamic Island -->
+  <rect x="80" y="28" width="80" height="18" rx="9" fill="#020617"/>
+</g>
+
+<!-- 3 Feature Callout Badges -->
+<g transform="translate(120, 520)">
+  <rect x="0" y="0" width="180" height="70" rx="12" fill="#0F172A" stroke="#00D4FF" stroke-width="1.5"/>
+  <text x="90" y="32" font-family="'Arial Black', sans-serif" font-size="20" fill="#00D4FF" text-anchor="middle">200 MP</text>
+  <text x="90" y="52" font-family="'Arial', sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">Pro Quad Optics</text>
+</g>
+<g transform="translate(780, 520)">
+  <rect x="0" y="0" width="180" height="70" rx="12" fill="#0F172A" stroke="#00D4FF" stroke-width="1.5"/>
+  <text x="90" y="32" font-family="'Arial Black', sans-serif" font-size="20" fill="#00D4FF" text-anchor="middle">120 W</text>
+  <text x="90" y="52" font-family="'Arial', sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">Hyper-Boost Charge</text>
+</g>
+
+<!-- Bottom CTA -->
+<g transform="translate(365, 920)">
+  <rect x="0" y="0" width="350" height="74" rx="37" fill="url(#neonBlueCyan)"/>
+  <text x="175" y="46" font-family="'Arial Black', sans-serif" font-size="20" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">DISCOVER AT NOVA.COM</text>
+</g>
+</svg>

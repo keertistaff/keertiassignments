@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842">
+<rect width="595" height="842" fill="#FEFCE8"/>
+
+<!-- Royal Maroon & Gold Border -->
+<rect x="25" y="25" width="545" height="792" fill="none" stroke="#450A0A" stroke-width="2"/>
+<rect x="32" y="32" width="531" height="778" fill="none" stroke="#D97706" stroke-width="1" stroke-dasharray="8 4"/>
+
+<!-- Header -->
+<g transform="translate(297, 72)" text-anchor="middle">
+  <circle cx="0" cy="-12" r="14" fill="#D97706"/>
+  <text x="0" y="26" font-family="'Times New Roman', serif" font-weight="bold" font-size="32" letter-spacing="3" fill="#450A0A">SPICE JUNCTION</text>
+  <text x="0" y="46" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" letter-spacing="4" fill="#D97706">ROYAL INDIAN GASTRONOMY</text>
+</g>
+<line x1="80" y1="130" x2="515" y2="130" stroke="#D97706" stroke-width="1.5"/>
+
+<!-- SECTION 1: TANDOORI APPETIZERS -->
+<g transform="translate(60, 155)">
+  <rect x="0" y="0" width="160" height="22" rx="4" fill="#450A0A"/>
+  <text x="80" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FEFCE8" letter-spacing="1" text-anchor="middle">TANDOORI APPETIZERS</text>
+
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Murg Malai Tikka</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$16.00</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Cardamom and cream-marinated tender chicken cubes roasted in clay oven.</text>
+
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Paneer Tikka Shashlik</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$14.50</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Cottage cheese cubes with bell peppers in aromatic ajwain turmeric marinade.</text>
+
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Amritsari Machhi (Fish Fry)</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$17.50</text>
+  <text x="0" y="132" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Crispy carom-spiced batter fried freshwater fish with mint coriander relish.</text>
+</g>
+
+<!-- SECTION 2: ROYAL CURRIES -->
+<g transform="translate(60, 320)">
+  <rect x="0" y="0" width="160" height="22" rx="4" fill="#450A0A"/>
+  <text x="80" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FEFCE8" letter-spacing="1" text-anchor="middle">ROYAL CURRIES</text>
+
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Butter Chicken (Murg Makhani)</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$22.00</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Charcoal-grilled chicken in creamy vine-ripened tomato gravy scented with fenugreek.</text>
+
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Kashmiri Rogan Josh</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$26.00</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Slow-cooked spring lamb in rich gravy of Kashmiri dried chilies and rataan jot.</text>
+
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Dal Makhani Heritage</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$17.00</text>
+  <text x="0" y="132" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Black lentils simmered overnight with tomatoes, butter and home-churned cream.</text>
+</g>
+
+<!-- SECTION 3: BIRYANI & BREADS -->
+<g transform="translate(60, 485)">
+  <rect x="0" y="0" width="160" height="22" rx="4" fill="#450A0A"/>
+  <text x="80" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FEFCE8" letter-spacing="1" text-anchor="middle">BIRYANI &amp; BREADS</text>
+
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Dum Gosht Biryani (Hyderabadi)</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$25.00</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Fragrant long-grain aged basmati rice layered with spiced tender lamb, saffron &amp; mint.</text>
+
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Subz Dum Biryani</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$19.00</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#78350F">Seasonal garden vegetables and cottage cheese infused with kewra water and saffron.</text>
+
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Assorted Bread Basket (Garlic Naan, Roti, Kulcha)</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$11.50</text>
+</g>
+
+<!-- SECTION 4: DESSERTS & BEVERAGES -->
+<g transform="translate(60, 650)">
+  <rect x="0" y="0" width="160" height="22" rx="4" fill="#D97706"/>
+  <text x="80" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FEFCE8" letter-spacing="1" text-anchor="middle">MEETHA &amp; BEVERAGES</text>
+
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Shahi Tukda with Rabdi</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$9.50</text>
+  <text x="0" y="66" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#450A0A">Kesari Mango Lassi</text>
+  <text x="475" y="66" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$6.50</text>
+</g>
+
+<text x="297" y="775" font-family="'Times New Roman', serif" font-style="italic" font-size="11" fill="#D97706" text-anchor="middle">
+  All meats are 100% Halal certified. Please inform us of any food allergies.
+</text>
+</svg>

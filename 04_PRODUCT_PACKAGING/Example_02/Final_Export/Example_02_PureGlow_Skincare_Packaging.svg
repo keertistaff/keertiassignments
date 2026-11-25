@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#F9FAFB"/>
+
+<!-- Title -->
+<text x="400" y="45" font-family="'Arial Black', sans-serif" font-size="18" fill="#2D3B26" text-anchor="middle">PUREGLOW BOTANICAL CARTON DIELINE (30ml / 1 fl oz)</text>
+
+<!-- 4 Panel Carton + Top/Bottom Flaps -->
+<g transform="translate(100, 80)">
+  <!-- Top Flap (Panel 2) -->
+  <polygon points="150,-60 270,-60 280,0 140,0" fill="#F7F9F6" stroke="#DC2626" stroke-width="1.5"/>
+  <text x="210" y="-25" font-family="'Arial', sans-serif" font-size="10" fill="#2D3B26" text-anchor="middle">TOP TUCK FLAP</text>
+
+  <!-- Panel 1: Left (140 x 360) -->
+  <rect x="0" y="0" width="140" height="360" fill="#F7F9F6" stroke="#DC2626" stroke-width="1.5"/>
+  <text x="70" y="40" font-family="'Arial Black', sans-serif" font-size="11" fill="#2D3B26" text-anchor="middle">INGREDIENTS</text>
+  <text x="70" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#4B5563" text-anchor="middle">
+    <tspan x="70" dy="0">Organic Jojoba Oil,</tspan>
+    <tspan x="70" dy="14">Rosehip Seed Extract,</tspan>
+    <tspan x="70" dy="14">Botanical Squalane,</tspan>
+    <tspan x="70" dy="14">Vitamin C Ester,</tspan>
+    <tspan x="70" dy="14">Hyaluronic Acid.</tspan>
+  </text>
+  <circle cx="70" cy="240" r="24" fill="#9CAF88" opacity="0.3"/>
+  <text x="70" y="244" font-family="'Arial', sans-serif" font-size="9" font-weight="bold" fill="#2D3B26" text-anchor="middle">100% VEGAN</text>
+
+  <!-- Panel 2: Front (140 x 360) -->
+  <rect x="140" y="0" width="140" height="360" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+  <!-- Leaf Crest Logo -->
+  <g transform="translate(210, 60)">
+    <path d="M0,-20 C15,-15 20,5 0,20 C-20,5 -15,-15 0,-20 Z" fill="#9CAF88"/>
+    <text x="0" y="42" font-family="'Times New Roman', serif" font-size="16" font-weight="bold" letter-spacing="3" fill="#2D3B26" text-anchor="middle">PUREGLOW</text>
+    <text x="0" y="58" font-family="'Arial', sans-serif" font-size="8" letter-spacing="2" fill="#C9A96E" text-anchor="middle">BOTANICALS</text>
+  </g>
+  <text x="210" y="180" font-family="'Times New Roman', serif" font-size="15" fill="#2D3B26" text-anchor="middle">HYDRA-LUMINOUS</text>
+  <text x="210" y="198" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" letter-spacing="2" fill="#C9A96E" text-anchor="middle">FACIAL SERUM</text>
+  <text x="210" y="230" font-family="'Arial', sans-serif" font-size="9" fill="#6B7280" text-anchor="middle">With Niacinamide &amp; Peptides</text>
+  <text x="210" y="320" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" fill="#2D3B26" text-anchor="middle">30 ML / 1.0 FL OZ</text>
+
+  <!-- Panel 3: Right (140 x 360) -->
+  <rect x="280" y="0" width="140" height="360" fill="#F7F9F6" stroke="#DC2626" stroke-width="1.5"/>
+  <text x="350" y="40" font-family="'Arial Black', sans-serif" font-size="11" fill="#2D3B26" text-anchor="middle">HOW TO APPLY</text>
+  <text x="350" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#4B5563" text-anchor="middle">
+    <tspan x="350" dy="0">Dispense 3-4 drops</tspan>
+    <tspan x="350" dy="14">onto fingertips and gently</tspan>
+    <tspan x="350" dy="14">press onto cleansed skin</tspan>
+    <tspan x="350" dy="14">morning &amp; night.</tspan>
+  </text>
+  <circle cx="350" cy="240" r="24" fill="#9CAF88" opacity="0.3"/>
+  <text x="350" y="244" font-family="'Arial', sans-serif" font-size="9" font-weight="bold" fill="#2D3B26" text-anchor="middle">CRUELTY FREE</text>
+
+  <!-- Panel 4: Back (140 x 360) -->
+  <rect x="420" y="0" width="140" height="360" fill="#FFFFFF" stroke="#DC2626" stroke-width="1.5"/>
+  <text x="490" y="50" font-family="'Arial Black', sans-serif" font-size="10" fill="#2D3B26" text-anchor="middle">DISTRIBUTED BY</text>
+  <text x="490" y="70" font-family="'Arial', sans-serif" font-size="8" fill="#4B5563" text-anchor="middle">
+    <tspan x="490" dy="0">PureGlow Labs Inc.</tspan>
+    <tspan x="490" dy="12">San Francisco, CA 94107</tspan>
+    <tspan x="490" dy="12">www.pureglowbeauty.com</tspan>
+    <tspan x="490" dy="12">Made in USA</tspan>
+  </text>
+  <!-- Mini Barcode -->
+  <rect x="450" y="240" width="80" height="50" fill="#F3F4F6"/>
+  <text x="490" y="270" font-family="'Arial', sans-serif" font-size="8" fill="#000000" text-anchor="middle">|||| | ||||| |||| |</text>
+
+  <!-- Glue Flap -->
+  <polygon points="560,0 580,20 580,340 560,360" fill="#E5E7EB" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+</g>
+</svg>

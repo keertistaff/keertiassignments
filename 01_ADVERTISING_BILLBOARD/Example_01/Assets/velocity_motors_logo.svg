@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" width="600" height="140">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6E2A1"/>
+      <stop offset="45%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#9A7320"/>
+    </linearGradient>
+  </defs>
+  <!-- Winged-V Emblem -->
+  <g transform="translate(15, 18)">
+    <path d="M5,14 L46,32 L54,50 L20,30 Z" fill="url(#goldGrad)"/>
+    <path d="M12,35 L46,49 L52,63 L26,48 Z" fill="url(#goldGrad)"/>
+    <path d="M22,54 L46,64 L50,74 L32,64 Z" fill="url(#goldGrad)"/>
+    <path d="M125,14 L84,32 L76,50 L110,30 Z" fill="url(#goldGrad)"/>
+    <path d="M118,35 L84,49 L78,63 L104,48 Z" fill="url(#goldGrad)"/>
+    <path d="M108,54 L84,64 L80,74 L98,64 Z" fill="url(#goldGrad)"/>
+    <polygon points="48,16 65,92 82,16 72,16 65,64 58,16" fill="url(#goldGrad)"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="165" y="78" font-family="Century Gothic, Arial, sans-serif" font-weight="bold" font-size="38" letter-spacing="4" fill="#FFFFFF">VELOCITY</text>
+  <text x="167" y="108" font-family="Century Gothic, Arial, sans-serif" font-weight="bold" font-size="22" letter-spacing="10" fill="url(#goldGrad)">MOTORS</text>
+</svg>

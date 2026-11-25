@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="finGold" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#E5C775"/>
+    <stop offset="50%" stop-color="#C5A059"/>
+    <stop offset="100%" stop-color="#9C782E"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="600" fill="#F8FAFC"/>
+<text x="400" y="45" font-family="'Times New Roman', serif" font-weight="bold" font-size="22" fill="#0A192F" text-anchor="middle">FINEDGE CONSULTING - CORPORATE IDENTITY SYSTEM</text>
+
+<!-- Letterhead (Left) -->
+<g transform="translate(60, 80)">
+  <rect x="0" y="0" width="300" height="420" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="0" y="0" width="300" height="6" fill="url(#finGold)"/>
+
+  <!-- Logo -->
+  <g transform="translate(30, 36)">
+    <!-- Architectural Diamond Monogram -->
+    <polygon points="12,0 24,12 12,24 0,12" fill="url(#finGold)"/>
+    <text x="36" y="16" font-family="'Times New Roman', serif" font-weight="bold" font-size="15" letter-spacing="1" fill="#0A192F">FINEDGE</text>
+    <text x="36" y="26" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" letter-spacing="2" fill="#C5A059">WEALTH CONSULTING</text>
+  </g>
+
+  <!-- Letter Text -->
+  <g transform="translate(30, 100)">
+    <text x="0" y="0" font-family="'Times New Roman', serif" font-size="10" fill="#0A192F">Dear Valued Investor,</text>
+    <g fill="#94A3B8">
+      <rect x="0" y="20" width="240" height="5" rx="2"/><rect x="0" y="32" width="240" height="5" rx="2"/>
+      <rect x="0" y="44" width="200" height="5" rx="2"/>
+      <rect x="0" y="66" width="240" height="5" rx="2"/><rect x="0" y="78" width="240" height="5" rx="2"/>
+      <rect x="0" y="90" width="160" height="5" rx="2"/>
+    </g>
+    <text x="0" y="170" font-family="'Times New Roman', serif" font-weight="bold" font-size="11" fill="#0A192F">Jonathan Sterling, CFA</text>
+    <text x="0" y="184" font-family="'Arial', sans-serif" font-size="8" fill="#C5A059">Managing Partner</text>
+  </g>
+
+  <!-- Footer -->
+  <line x1="30" y1="390" x2="270" y2="390" stroke="url(#finGold)" stroke-width="1"/>
+  <text x="150" y="405" font-family="'Times New Roman', serif" font-size="7" fill="#64748B" text-anchor="middle">Wall Street Plaza, 38th Floor, New York • www.finedgeconsulting.com</text>
+</g>
+
+<!-- Envelope (Right Top) -->
+<g transform="translate(400, 80)">
+  <rect x="0" y="0" width="340" height="160" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="0" y="0" width="6" height="160" fill="#0A192F"/>
+  <polygon points="12,0 20,8 12,16 4,8" fill="url(#finGold)" transform="translate(25, 20)"/>
+  <text x="52" y="32" font-family="'Times New Roman', serif" font-weight="bold" font-size="12" fill="#0A192F">FINEDGE</text>
+  <text x="140" y="100" font-family="'Times New Roman', serif" font-size="10" fill="#334155">
+    <tspan x="140" dy="0">Highland Capital Partners</tspan>
+    <tspan x="140" dy="16">100 Montgomery Street</tspan>
+    <tspan x="140" dy="16">San Francisco, CA 94104</tspan>
+  </text>
+</g>
+
+<!-- Business Cards (Right Bottom) -->
+<g transform="translate(400, 275)">
+  <!-- Navy Card -->
+  <g transform="translate(0, 0)">
+    <rect x="0" y="0" width="160" height="92" rx="4" fill="#0A192F"/>
+    <rect x="8" y="8" width="144" height="76" fill="none" stroke="url(#finGold)" stroke-width="0.75"/>
+    <polygon points="10,0 20,10 10,20 0,10" fill="url(#finGold)" transform="translate(70, 22)"/>
+    <text x="80" y="56" font-family="'Times New Roman', serif" font-weight="bold" font-size="11" letter-spacing="2" fill="url(#finGold)" text-anchor="middle">FINEDGE</text>
+    <text x="80" y="68" font-family="'Arial', sans-serif" font-size="6" letter-spacing="1" fill="#E2E8F0" text-anchor="middle">CONSULTING</text>
+  </g>
+  <!-- White Card -->
+  <g transform="translate(180, 0)">
+    <rect x="0" y="0" width="160" height="92" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+    <text x="16" y="24" font-family="'Times New Roman', serif" font-weight="bold" font-size="10" fill="#0A192F">JONATHAN STERLING</text>
+    <text x="16" y="34" font-family="'Arial', sans-serif" font-weight="bold" font-size="6" fill="#C5A059">MANAGING PARTNER</text>
+    <g transform="translate(16, 50)" fill="#475569" font-family="'Arial', sans-serif" font-size="6">
+      <text x="0" y="0">T: +1 (212) 555-0188</text>
+      <text x="0" y="10">E: jsterling@finedge.com</text>
+      <text x="0" y="20">W: www.finedgeconsulting.com</text>
+    </g>
+  </g>
+</g>
+</svg>

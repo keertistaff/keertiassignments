@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 842 1191" width="842" height="1191">
+<rect width="842" height="1191" fill="#F8FAFC"/>
+
+<!-- Navy Header Block -->
+<path d="M0,0 L842,0 L842,340 L0,260 Z" fill="#1E3A8A"/>
+
+<!-- Header Brand -->
+<g transform="translate(80, 60)">
+  <circle cx="28" cy="28" r="28" fill="#F59E0B"/>
+  <text x="28" y="38" font-family="'Times New Roman', serif" font-weight="bold" font-size="28" fill="#1E3A8A" text-anchor="middle">FP</text>
+  <text x="75" y="26" font-family="'Arial Black', sans-serif" font-size="24" fill="#FFFFFF">FUTUREPATH ACADEMY</text>
+  <text x="75" y="44" font-family="'Arial', sans-serif" font-size="12" letter-spacing="3" fill="#38BDF8">EXCELLENCE IN GLOBAL EDUCATION</text>
+</g>
+
+<!-- Big Admissions Badge -->
+<g transform="translate(80, 160)">
+  <rect x="0" y="0" width="340" height="40" rx="20" fill="#F59E0B"/>
+  <text x="170" y="26" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A" letter-spacing="2" text-anchor="middle">ADMISSIONS OPEN 2026-27</text>
+  <text x="0" y="80" font-family="'Arial Black', sans-serif" font-size="46" fill="#FFFFFF">SHAPE YOUR FUTURE</text>
+  <text x="0" y="125" font-family="'Arial Black', sans-serif" font-size="34" fill="#38BDF8">WITH WORLD-CLASS FACULTY</text>
+</g>
+
+<!-- 4 Key Programs Grid -->
+<g transform="translate(80, 360)">
+  <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="24" fill="#1E3A8A">CAREER-DEFINING DISCIPLINES</text>
+
+  <!-- Card 1: Computer Science -->
+  <g transform="translate(0, 30)">
+    <rect x="0" y="0" width="320" height="130" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <circle cx="45" cy="45" r="24" fill="#EFF6FF"/>
+    <text x="45" y="52" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A" text-anchor="middle">&lt;&gt;</text>
+    <text x="85" y="40" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A">COMPUTER SCIENCE</text>
+    <text x="85" y="60" font-family="'Arial', sans-serif" font-size="11" fill="#38BDF8">AI, Data Engineering, Cyber</text>
+    <text x="20" y="100" font-family="'Arial', sans-serif" font-size="10" fill="#64748B">100% Placement Record with Silicon Valley tech firms.</text>
+  </g>
+
+  <!-- Card 2: Business -->
+  <g transform="translate(360, 30)">
+    <rect x="0" y="0" width="320" height="130" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <circle cx="45" cy="45" r="24" fill="#FEF3C7"/>
+    <text x="45" y="52" font-family="'Arial Black', sans-serif" font-size="16" fill="#D97706" text-anchor="middle">$</text>
+    <text x="85" y="40" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A">BUSINESS &amp; FINANCE</text>
+    <text x="85" y="60" font-family="'Arial', sans-serif" font-size="11" fill="#D97706">Fintech, Global Economics</text>
+    <text x="20" y="100" font-family="'Arial', sans-serif" font-size="10" fill="#64748B">Incubator access &amp; $2M student venture capital fund.</text>
+  </g>
+
+  <!-- Card 3: Design -->
+  <g transform="translate(0, 180)">
+    <rect x="0" y="0" width="320" height="130" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <circle cx="45" cy="45" r="24" fill="#FDF2F8"/>
+    <text x="45" y="52" font-family="'Arial Black', sans-serif" font-size="16" fill="#DB2777" text-anchor="middle">UI</text>
+    <text x="85" y="40" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A">DESIGN &amp; MEDIA</text>
+    <text x="85" y="60" font-family="'Arial', sans-serif" font-size="11" fill="#DB2777">Digital Arts, UX/UI, Animation</text>
+    <text x="20" y="100" font-family="'Arial', sans-serif" font-size="10" fill="#64748B">State-of-the-art motion graphics &amp; sound labs.</text>
+  </g>
+
+  <!-- Card 4: Biotech -->
+  <g transform="translate(360, 180)">
+    <rect x="0" y="0" width="320" height="130" rx="14" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <circle cx="45" cy="45" r="24" fill="#ECFDF5"/>
+    <text x="45" y="52" font-family="'Arial Black', sans-serif" font-size="16" fill="#059669" text-anchor="middle">DNA</text>
+    <text x="85" y="40" font-family="'Arial Black', sans-serif" font-size="16" fill="#1E3A8A">BIOTECHNOLOGY</text>
+    <text x="85" y="60" font-family="'Arial', sans-serif" font-size="11" fill="#059669">Genetics, Molecular Health</text>
+    <text x="20" y="100" font-family="'Arial', sans-serif" font-size="10" fill="#64748B">Partnership with global clinical research hospitals.</text>
+  </g>
+</g>
+
+<!-- Scholarship Highlight -->
+<g transform="translate(80, 750)">
+  <rect x="0" y="0" width="682" height="110" rx="16" fill="#1E3A8A"/>
+  <text x="40" y="42" font-family="'Arial Black', sans-serif" font-size="22" fill="#F59E0B">MERIT SCHOLARSHIPS AVAILABLE</text>
+  <text x="40" y="72" font-family="'Arial', sans-serif" font-size="14" fill="#FFFFFF">Up to 100% tuition coverage for top academic &amp; athletic achievers.</text>
+  <rect x="500" y="28" width="140" height="48" rx="8" fill="#F59E0B"/>
+  <text x="570" y="58" font-family="'Arial Black', sans-serif" font-size="14" fill="#1E3A8A" text-anchor="middle">APPLY NOW</text>
+</g>
+
+<!-- Campus Contact Footer -->
+<g transform="translate(80, 920)">
+  <rect x="0" y="0" width="682" height="160" rx="16" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.5"/>
+  <g transform="translate(40, 45)" font-family="'Arial', sans-serif">
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="18" fill="#1E3A8A">CAMPUS TOURS &amp; ADMISSIONS OFFICE</text>
+    <text x="0" y="28" font-size="13" fill="#334155">FuturePath Academic Quad, Cambridge Avenue, MA</text>
+    <text x="0" y="50" font-size="13" fill="#334155">Phone: +1 (800) 888-PATH  |  Email: admissions@futurepath.edu</text>
+    <text x="0" y="74" font-weight="bold" font-size="14" fill="#1E3A8A">www.futurepathacademy.edu/apply</text>
+  </g>
+  <!-- QR Code Mockup -->
+  <g transform="translate(540, 30)">
+    <rect x="0" y="0" width="100" height="100" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+    <rect x="15" y="15" width="25" height="25" fill="#1E3A8A"/>
+    <rect x="60" y="15" width="25" height="25" fill="#1E3A8A"/>
+    <rect x="15" y="60" width="25" height="25" fill="#1E3A8A"/>
+    <rect x="45" y="45" width="15" height="15" fill="#F59E0B"/>
+    <text x="50" y="115" font-family="'Arial', sans-serif" font-size="9" fill="#64748B" text-anchor="middle">SCAN TO APPLY</text>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+ASSET SOURCES DOCUMENTATION
+Category 02: Infographic Design - Example 01 (Digital Marketing Process)
+========================================================================
+1. marketing_icons.svg
+   - Type: Custom Scalable Vector UI Icons
+   - Source: Original custom vector illustrations created for this project
+   - License: CC0 / Public Domain Educational & Commercial Use
+2. color_palette.svg
+   - Type: Hex / CMYK Design Swatches
+   - Source: Original specification created for this curriculum
+3. Typography: Inter & Montserrat
+   - Type: Open-Source Sans-Serif Typefaces
+   - Source: Google Fonts (SIL Open Font License 1.1)

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120">
+  <defs>
+    <linearGradient id="elecBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#0055FF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(15,15)">
+    <polygon points="45,4 58,34 88,45 58,56 45,86 32,56 2,45 32,34" fill="url(#elecBlue)"/>
+    <circle cx="45" cy="45" r="34" fill="none" stroke="#00D4FF" stroke-width="2.5" stroke-dasharray="14 6"/>
+    <circle cx="45" cy="45" r="8" fill="#FFFFFF"/>
+  </g>
+  <text x="122" y="62" font-family="Arial Black, sans-serif" font-size="38" letter-spacing="4" fill="#FFFFFF">NOVA</text>
+  <text x="124" y="92" font-family="Century Gothic, Arial, sans-serif" font-weight="bold" font-size="18" letter-spacing="10" fill="#00D4FF">MOBILE</text>
+</svg>

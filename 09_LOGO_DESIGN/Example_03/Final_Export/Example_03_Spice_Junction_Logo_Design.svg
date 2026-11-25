@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" width="2000" height="2000">
+<defs>
+  <radialGradient id="warmBg" cx="50%" cy="40%" r="70%">
+    <stop offset="0%" stop-color="#450A0A"/>
+    <stop offset="50%" stop-color="#250505"/>
+    <stop offset="100%" stop-color="#120202"/>
+  </radialGradient>
+  <linearGradient id="flameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+    <stop offset="0%" stop-color="#DC2626"/>
+    <stop offset="50%" stop-color="#EA580C"/>
+    <stop offset="100%" stop-color="#FBBF24"/>
+  </linearGradient>
+</defs>
+
+<rect width="2000" height="2000" fill="url(#warmBg)"/>
+
+<!-- Header -->
+<g transform="translate(100, 140)">
+  <text x="0" y="0" font-family="'Times New Roman', serif" font-weight="bold" font-size="52" fill="#FBBF24">SPICE JUNCTION</text>
+  <text x="0" y="44" font-family="'Arial', sans-serif" font-weight="bold" font-size="20" letter-spacing="8" fill="#D97706">AUTHENTIC INDIAN CUISINE EMBLEM SYSTEM</text>
+  <line x1="0" y1="80" x2="1800" y2="80" stroke="#78350F" stroke-width="2"/>
+</g>
+
+<!-- Central Hero Badge -->
+<g transform="translate(1000, 560)">
+  <!-- Badge Rings -->
+  <circle cx="0" cy="-60" r="180" fill="#2E0808" stroke="#D97706" stroke-width="6"/>
+  <circle cx="0" cy="-60" r="160" fill="none" stroke="#FBBF24" stroke-width="2" stroke-dasharray="10 6"/>
+
+  <!-- Flame & Anise Vector Centerpiece -->
+  <g transform="translate(0, -60) scale(1.4)">
+    <path d="M0,45 C25,45 35,20 20,-10 C40,-5 35,-35 0,-65 C-35,-35 -40,-5 -20,-10 C-35,20 -25,45 0,45 Z" fill="url(#flameGrad)"/>
+    <circle cx="0" cy="5" r="12" fill="#FEF08A"/>
+  </g>
+
+  <!-- Title -->
+  <text x="0" y="210" font-family="'Times New Roman', serif" font-weight="bold" font-size="76" letter-spacing="6" fill="#FFFFFF" text-anchor="middle">SPICE JUNCTION</text>
+  <text x="0" y="270" font-family="'Arial', sans-serif" font-weight="bold" font-size="24" letter-spacing="14" fill="#FBBF24" text-anchor="middle">ESTD 2012 • ROYAL TASTE</text>
+</g>
+
+<!-- Bottom Panels -->
+<g transform="translate(100, 1050)">
+  <!-- Warm Ivory Seal Board -->
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#FEFCE8"/>
+  <text x="50" y="70" font-family="'Times New Roman', serif" font-weight="bold" font-size="28" fill="#450A0A">LIGHT MENU EMBLEM</text>
+  <g transform="translate(430, 420)">
+    <circle cx="0" cy="-50" r="130" fill="#450A0A"/>
+    <path d="M0,30 C18,30 25,12 14,-8 C28,-4 25,-25 0,-45 C-25,-25 -28,-4 -14,-8 C-25,12 -18,30 0,30 Z" fill="#FBBF24" transform="translate(0, -50)"/>
+    <text x="0" y="140" font-family="'Times New Roman', serif" font-weight="bold" font-size="44" fill="#450A0A" text-anchor="middle">SPICE JUNCTION</text>
+  </g>
+</g>
+
+<g transform="translate(1040, 1050)">
+  <!-- Monochrome Black Board -->
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#1C1917" stroke="#44403C" stroke-width="2"/>
+  <text x="50" y="70" font-family="'Arial Black', sans-serif" font-size="28" fill="#FFFFFF">1-COLOR STAMP REPRODUCTION</text>
+  <g transform="translate(430, 420)">
+    <circle cx="0" cy="-50" r="130" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <path d="M0,30 C18,30 25,12 14,-8 C28,-4 25,-25 0,-45 C-25,-25 -28,-4 -14,-8 C-25,12 -18,30 0,30 Z" fill="#FFFFFF" transform="translate(0, -50)"/>
+    <text x="0" y="140" font-family="'Arial Black', sans-serif" font-size="40" fill="#FFFFFF" text-anchor="middle">SPICE JUNCTION</text>
+  </g>
+</g>
+</svg>

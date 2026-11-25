@@ -1,0 +1,39 @@
+ASSET SOURCES DOCUMENTATION
+Category 01: Advertising Billboard - Example 02 (Real Estate Advertisement - SKYLINE DEVELOPERS)
+==================================================================================================
+
+1. modern_glass_building_cc0.jpg
+   - Type: Architectural High-Rise Building Photograph (JPEG)
+   - Source: Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Modern_Skyscrapers_(or_Buildings)made_with_glass.jpg)
+   - License: CC0 1.0 Universal Public Domain Dedication
+   - Attribution: Not required (CC0)
+
+2. azure_sky_clouds_bg.jpg
+   - Type: Daylight Sky & Clouds Background Photograph (JPEG)
+   - Source: Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cirrus_uncinus_clouds_in_the_morning_sky.jpg)
+   - License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+   - Attribution: Wikimedia Commons contributor (CC BY-SA 4.0)
+
+3. skyline_developers_logo.svg
+   - Type: Scalable Vector Real Estate Brand Logo (SVG)
+   - Source: Original custom vector artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+4. color_palette.svg
+   - Type: Brand Colour Swatch Guide (CMYK / HEX)
+   - Source: Original vector specification created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+5. icon_phone_gold.svg, icon_web_gold.svg, icon_location_gold.svg, icon_building_gold.svg
+   - Type: Vector UI Icons (SVG)
+   - Source: Material Design Icons via Iconify API (https://api.iconify.design/mdi/)
+   - License: Apache License 2.0 (https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+   - Attribution: Material Design Icons by Pictogrammers (Apache 2.0)
+
+6. Poppins-Bold.ttf & Poppins-Regular.ttf
+   - Type: Geometric Sans-Serif Typography Fonts (TrueType)
+   - Source: Google Fonts GitHub Repository (https://github.com/google/fonts/tree/main/ofl/poppins)
+   - License: SIL Open Font License 1.1 (see 11_ALL_ASSETS_LIBRARY/Fonts/Poppins_OFL.txt)
+   - Attribution: Poppins designed by Indian Type Foundry, Jonny Pinhorn

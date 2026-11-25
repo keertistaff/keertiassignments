@@ -1,0 +1,39 @@
+ASSET SOURCES DOCUMENTATION
+Category 01: Advertising Billboard - Example 03 (Smartphone Advertisement - NOVA MOBILE)
+========================================================================================
+
+1. smartphone_vector_asset.svg
+   - Type: Scalable Vector Smartphone Product Illustration (SVG)
+   - Source: Original multi-layer vector product illustration created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+2. nova_mobile_logo.svg
+   - Type: Vector Tech Brand Emblem & Wordmark (SVG)
+   - Source: Original custom vector artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+3. tech_grid_bg.svg
+   - Type: Vector Technology Circuit/Grid Background (SVG)
+   - Source: Original vector background artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+4. color_palette.svg
+   - Type: Brand Colour Swatch Guide (CMYK / RGB / HEX)
+   - Source: Original vector specification created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+5. icon_camera_blue.svg, icon_battery_blue.svg, icon_display_blue.svg, icon_chip_blue.svg
+   - Type: Vector Feature Icons (SVG)
+   - Source: Material Design Icons via Iconify API (https://api.iconify.design/mdi/)
+   - License: Apache License 2.0 (https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+   - Attribution: Material Design Icons by Pictogrammers (Apache 2.0)
+
+6. Orbitron-Bold.ttf
+   - Type: Futuristic Geometric Display Typography Font (TrueType)
+   - Source: Google Fonts GitHub Repository (https://github.com/google/fonts/tree/main/ofl/orbitron)
+   - License: SIL Open Font License 1.1 (see 11_ALL_ASSETS_LIBRARY/Fonts/Orbitron_OFL.txt)
+   - Attribution: Orbitron designed by Matt McInerney

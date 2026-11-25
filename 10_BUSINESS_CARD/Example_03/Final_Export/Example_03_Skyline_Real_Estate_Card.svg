@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs>
+  <linearGradient id="goldSky" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#F5DE9E"/>
+    <stop offset="50%" stop-color="#D4AF37"/>
+    <stop offset="100%" stop-color="#9C782E"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="500" fill="#F8FAFC"/>
+<text x="400" y="45" font-family="'Times New Roman', serif" font-weight="bold" font-size="20" fill="#0A192F" text-anchor="middle">SKYLINE DEVELOPERS - VERTICAL LUXURY CARD (2" x 3.5")</text>
+
+<!-- Front Vertical (Left, 200 x 340 pt) -->
+<g transform="translate(150, 75)">
+  <rect x="0" y="0" width="200" height="340" rx="8" fill="#0A192F"/>
+  <rect x="8" y="8" width="184" height="324" fill="none" stroke="url(#goldSky)" stroke-width="0.75"/>
+
+  <!-- Tower Monogram -->
+  <g transform="translate(100, 110)" stroke="url(#goldSky)" stroke-width="2" fill="none">
+    <rect x="-24" y="-40" width="48" height="80"/>
+    <polygon points="-24,-40 0,-65 24,-40"/>
+    <line x1="-12" y1="-30" x2="-12" y2="30"/>
+    <line x1="0" y1="-30" x2="0" y2="30"/>
+    <line x1="12" y1="-30" x2="12" y2="30"/>
+  </g>
+  <text x="100" y="215" font-family="'Times New Roman', serif" font-weight="bold" font-size="16" letter-spacing="3" fill="url(#goldSky)" text-anchor="middle">SKYLINE</text>
+  <text x="100" y="235" font-family="'Arial', sans-serif" font-size="8" letter-spacing="3" fill="#E2E8F0" text-anchor="middle">DEVELOPERS</text>
+  <text x="100" y="300" font-family="'Times New Roman', serif" font-size="8" letter-spacing="2" fill="url(#goldSky)" text-anchor="middle">LUXURY RESIDENCES</text>
+  <text x="100" y="375" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" fill="#64748B" text-anchor="middle">FRONT (GOLD FOIL)</text>
+</g>
+
+<!-- Back Vertical (Right, 200 x 340 pt) -->
+<g transform="translate(450, 75)">
+  <rect x="0" y="0" width="200" height="340" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="0" y="0" width="200" height="6" fill="url(#goldSky)"/>
+
+  <g transform="translate(100, 50)" text-anchor="middle">
+    <text x="0" y="0" font-family="'Times New Roman', serif" font-weight="bold" font-size="14" fill="#0A192F">MARCUS STERLING</text>
+    <text x="0" y="16" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" letter-spacing="1" fill="#C5A059">SR. PROPERTY CONSULTANT</text>
+  </g>
+
+  <line x1="30" y1="90" x2="170" y2="90" stroke="url(#goldSky)" stroke-width="0.75"/>
+
+  <g transform="translate(20, 125)" fill="#334155" font-family="'Arial', sans-serif" font-size="8">
+    <text x="0" y="0">P: +1 (212) 555-0199</text>
+    <text x="0" y="20">M: +1 (917) 555-0245</text>
+    <text x="0" y="40">E: marcus@skyline.com</text>
+    <text x="0" y="60">W: www.skylinedev.com</text>
+    <text x="0" y="85">750 5th Avenue, Suite 3200</text>
+    <text x="0" y="100">New York, NY 10019</text>
+  </g>
+
+  <rect x="65" y="260" width="70" height="40" fill="#0A192F" rx="4"/>
+  <text x="100" y="284" font-family="'Arial', sans-serif" font-size="7" font-weight="bold" letter-spacing="1" fill="url(#goldSky)" text-anchor="middle">VIP PREVIEWS</text>
+  <text x="100" y="375" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" fill="#64748B" text-anchor="middle">BACK (MINIMAL LUXURY)</text>
+</g>
+</svg>

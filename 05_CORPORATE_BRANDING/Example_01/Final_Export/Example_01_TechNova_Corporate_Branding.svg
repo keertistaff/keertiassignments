@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="techBlueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0284C7"/>
+    <stop offset="100%" stop-color="#0F172A"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="600" fill="#F1F5F9"/>
+
+<!-- Header Title -->
+<text x="400" y="45" font-family="'Arial Black', sans-serif" font-size="20" fill="#0F172A" text-anchor="middle">TECHNOVA SOLUTIONS - CORPORATE IDENTITY SYSTEM</text>
+
+<!-- ITEM 1: A4 Letterhead (Left, 300 x 420) -->
+<g transform="translate(60, 80)">
+  <rect x="0" y="0" width="300" height="420" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" filter="drop-shadow(0 10px 15px rgba(0,0,0,0.05))"/>
+  <!-- Top Tech Accents -->
+  <polygon points="0,0 300,0 300,12 0,12" fill="#0284C7"/>
+  <polygon points="220,0 300,0 300,24 240,24" fill="#06B6D4"/>
+
+  <!-- Logo Lockup -->
+  <g transform="translate(30, 42)">
+    <polygon points="12,0 24,7 24,21 12,28 0,21 0,7" fill="#0284C7"/>
+    <polygon points="12,4 20,9 20,19 12,24 4,19 4,9" fill="#06B6D4"/>
+    <text x="36" y="16" font-family="'Arial Black', sans-serif" font-size="14" fill="#0F172A">TECHNOVA</text>
+    <text x="36" y="27" font-family="'Arial', sans-serif" font-size="8" font-weight="bold" letter-spacing="2" fill="#64748B">SOLUTIONS</text>
+  </g>
+
+  <!-- Letterhead Body Placeholder Lines -->
+  <g transform="translate(30, 110)">
+    <text x="0" y="0" font-family="'Arial', sans-serif" font-weight="bold" font-size="9" fill="#0F172A">October 14, 2026</text>
+    <text x="0" y="18" font-family="'Arial', sans-serif" font-size="9" fill="#64748B">To: Enterprise Client Partners</text>
+    <text x="0" y="40" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" fill="#0F172A">Subject: Scalable Cloud Architecture Proposal</text>
+    <g fill="#94A3B8">
+      <rect x="0" y="60" width="240" height="5" rx="2"/><rect x="0" y="72" width="240" height="5" rx="2"/>
+      <rect x="0" y="84" width="220" height="5" rx="2"/><rect x="0" y="96" width="240" height="5" rx="2"/>
+      <rect x="0" y="118" width="240" height="5" rx="2"/><rect x="0" y="130" width="240" height="5" rx="2"/>
+      <rect x="0" y="142" width="180" height="5" rx="2"/>
+    </g>
+    <!-- Signoff -->
+    <text x="0" y="210" font-family="'Arial', sans-serif" font-size="9" fill="#0F172A">Sincerely,</text>
+    <text x="0" y="226" font-family="'Arial Black', sans-serif" font-size="10" fill="#0284C7">Dr. Alexander Vance</text>
+    <text x="0" y="238" font-family="'Arial', sans-serif" font-size="8" fill="#64748B">Chief Technology Officer</text>
+  </g>
+
+  <!-- Letterhead Footer -->
+  <g transform="translate(30, 390)">
+    <line x1="0" y1="0" x2="240" y2="0" stroke="#E2E8F0" stroke-width="1"/>
+    <text x="120" y="16" font-family="'Arial', sans-serif" font-size="7" fill="#64748B" text-anchor="middle">
+      100 Innovation Way, Suite 400, Silicon Valley, CA • www.technovasolutions.com • +1 (800) 555-0199
+    </text>
+  </g>
+</g>
+
+<!-- ITEM 2: Corporate Envelope (#10, 340 x 160) -->
+<g transform="translate(400, 80)">
+  <rect x="0" y="0" width="340" height="160" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <!-- Envelope Accent Line -->
+  <rect x="0" y="0" width="340" height="6" fill="#0284C7"/>
+
+  <!-- Logo Top Left -->
+  <g transform="translate(25, 25)">
+    <polygon points="8,0 16,5 16,15 8,20 0,15 0,5" fill="#0284C7"/>
+    <text x="24" y="12" font-family="'Arial Black', sans-serif" font-size="11" fill="#0F172A">TECHNOVA</text>
+    <text x="24" y="22" font-family="'Arial', sans-serif" font-size="7" fill="#64748B">SOLUTIONS</text>
+  </g>
+
+  <!-- Recipient Address -->
+  <g transform="translate(140, 85)" fill="#334155" font-family="'Arial', sans-serif" font-size="9">
+    <text x="0" y="0" font-weight="bold">Acme Global Enterprise Inc.</text>
+    <text x="0" y="14">Attn: Procurement &amp; IT Dept</text>
+    <text x="0" y="28">742 Evergreen Terrace</text>
+    <text x="0" y="42">Seattle, WA 98101</text>
+  </g>
+</g>
+
+<!-- ITEM 3: Business Cards (Front & Back, 160 x 92 each) -->
+<g transform="translate(400, 275)">
+  <!-- Front Card (Navy Dark) -->
+  <g transform="translate(0, 0)">
+    <rect x="0" y="0" width="160" height="92" rx="4" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+    <polygon points="12,0 24,7 24,21 12,28 0,21 0,7" fill="#0284C7" transform="translate(20, 25) scale(0.9)"/>
+    <text x="50" y="40" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF">TECHNOVA</text>
+    <text x="50" y="50" font-family="'Arial', sans-serif" font-size="6" letter-spacing="1" fill="#38BDF8">SOLUTIONS</text>
+    <text x="20" y="76" font-family="'Arial', sans-serif" font-size="6" fill="#94A3B8">www.technovasolutions.com</text>
+  </g>
+
+  <!-- Back Card (White Minimal) -->
+  <g transform="translate(180, 0)">
+    <rect x="0" y="0" width="160" height="92" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="92" fill="#0284C7"/>
+    <text x="16" y="24" font-family="'Arial Black', sans-serif" font-size="9" fill="#0F172A">DR. ALEXANDER VANCE</text>
+    <text x="16" y="34" font-family="'Arial', sans-serif" font-size="6" font-weight="bold" fill="#0284C7">CHIEF TECHNOLOGY OFFICER</text>
+    <g transform="translate(16, 48)" fill="#475569" font-family="'Arial', sans-serif" font-size="6">
+      <text x="0" y="0">E: avance@technova.com</text>
+      <text x="0" y="10">P: +1 (800) 555-0199</text>
+      <text x="0" y="20">O: 100 Innovation Way, CA</text>
+    </g>
+  </g>
+</g>
+
+<!-- Presentation Label -->
+<text x="400" y="540" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" fill="#64748B" text-anchor="middle">
+  DELIVERABLES: A4 LETTERHEAD  •  #10 ENVELOPE  •  DOUBLE-SIDED BUSINESS CARDS (3.5" x 2")
+</text>
+</svg>

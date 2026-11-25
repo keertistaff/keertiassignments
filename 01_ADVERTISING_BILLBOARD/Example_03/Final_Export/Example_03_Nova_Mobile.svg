@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#bgAura);}
+	.stGrid{stroke:#00D4FF;stroke-width:1;opacity:0.12;fill:none;}
+	.stRing{stroke:#00D4FF;stroke-width:2;opacity:0.25;fill:none;}
+	.stCardBg{fill:#061024;fill-opacity:0.85;stroke:#00D4FF;stroke-width:1.5;}
+	.stTextWhite{fill:#FFFFFF;font-family:'Arial Black',sans-serif;}
+	.stTextCyan{fill:#00D4FF;font-family:'Arial',sans-serif;}
+	.stTextDim{fill:#8EA5C8;font-family:'Arial',sans-serif;}
+</style>
+<defs>
+	<radialGradient id="bgAura" cx="50%" cy="50%" r="65%">
+		<stop offset="0%" stop-color="#003B99"/>
+		<stop offset="40%" stop-color="#07152E"/>
+		<stop offset="100%" stop-color="#03060D"/>
+	</radialGradient>
+	<linearGradient id="phoneFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+		<stop offset="0%" stop-color="#4A5568"/>
+		<stop offset="50%" stop-color="#1A202C"/>
+		<stop offset="100%" stop-color="#0A0E17"/>
+	</linearGradient>
+	<linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+		<stop offset="0%" stop-color="#020E28"/>
+		<stop offset="45%" stop-color="#0055FF"/>
+		<stop offset="100%" stop-color="#00F0FF"/>
+	</linearGradient>
+	<linearGradient id="rearGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+		<stop offset="0%" stop-color="#0A1838"/>
+		<stop offset="100%" stop-color="#030A1C"/>
+	</linearGradient>
+	<linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+		<stop offset="0%" stop-color="#00D4FF"/>
+		<stop offset="100%" stop-color="#0066FF"/>
+	</linearGradient>
+</defs>
+
+<!-- LAYER 1: Background_Aura -->
+<g id="Background_x5F_Aura">
+	<rect width="1920" height="1080" class="st0"/>
+</g>
+
+<!-- LAYER 2: Tech_Grid_&_Rings -->
+<g id="Tech_x5F_Grid_x5F__x26__x5F_Rings">
+	<g class="stGrid">
+		<line x1="0" y1="180" x2="1920" y2="180"/>
+		<line x1="0" y1="360" x2="1920" y2="360"/>
+		<line x1="0" y1="540" x2="1920" y2="540"/>
+		<line x1="0" y1="720" x2="1920" y2="720"/>
+		<line x1="0" y1="900" x2="1920" y2="900"/>
+		<line x1="320" y1="0" x2="320" y2="1080"/>
+		<line x1="640" y1="0" x2="640" y2="1080"/>
+		<line x1="960" y1="0" x2="960" y2="1080"/>
+		<line x1="1280" y1="0" x2="1280" y2="1080"/>
+		<line x1="1600" y1="0" x2="1600" y2="1080"/>
+	</g>
+	<circle cx="960" cy="540" r="320" class="stRing" stroke-dasharray="16 8"/>
+	<circle cx="960" cy="540" r="440" class="stRing"/>
+	<circle cx="960" cy="540" r="560" class="stRing" stroke-dasharray="8 12"/>
+</g>
+
+<!-- LAYER 3: Smartphone_Hero -->
+<g id="Smartphone_x5F_Hero">
+	<!-- Rear Phone (Tilted Left) -->
+	<g transform="translate(680, 160) rotate(-12) scale(0.92)">
+		<!-- Outer Chassis -->
+		<rect x="0" y="0" width="360" height="720" rx="46" fill="url(#rearGrad)" stroke="#00D4FF" stroke-width="2.5" opacity="0.85"/>
+		<!-- Camera Bump Island -->
+		<rect x="24" y="24" width="130" height="240" rx="28" fill="#06122C" stroke="#00D4FF" stroke-width="2"/>
+		<!-- Lens 1 -->
+		<circle cx="89" cy="74" r="34" fill="#0D2248" stroke="#00F0FF" stroke-width="2.5"/>
+		<circle cx="89" cy="74" r="20" fill="#030814"/>
+		<circle cx="82" cy="68" r="6" fill="#00F0FF" opacity="0.6"/>
+		<!-- Lens 2 -->
+		<circle cx="89" cy="148" r="34" fill="#0D2248" stroke="#00F0FF" stroke-width="2.5"/>
+		<circle cx="89" cy="148" r="20" fill="#030814"/>
+		<circle cx="82" cy="142" r="6" fill="#00F0FF" opacity="0.6"/>
+		<!-- Lens 3 (Periscope) -->
+		<rect x="65" y="196" width="48" height="40" rx="8" fill="#0D2248" stroke="#00D4FF" stroke-width="2"/>
+		<circle cx="89" cy="216" r="12" fill="#030814"/>
+	</g>
+
+	<!-- Primary Front Phone (Centered) -->
+	<g transform="translate(770, 140)">
+		<!-- Chassis Glow Shadow -->
+		<rect x="-10" y="-10" width="400" height="800" rx="56" fill="#00D4FF" opacity="0.18" filter="blur(20px)"/>
+		<!-- Titanium Chassis -->
+		<rect x="0" y="0" width="380" height="780" rx="50" fill="url(#phoneFrame)" stroke="#00D4FF" stroke-width="3"/>
+		<!-- Inner Bezel -->
+		<rect x="10" y="10" width="360" height="760" rx="42" fill="#04060C"/>
+		<!-- OLED Screen -->
+		<rect x="18" y="18" width="344" height="744" rx="36" fill="url(#screenGrad)"/>
+		<!-- Glowing Visual Waves on Screen -->
+		<path d="M18,480 C120,380 220,540 362,420 L362,762 L18,762 Z" fill="#020B1C" opacity="0.75"/>
+		<path d="M18,560 C150,460 240,620 362,510" fill="none" stroke="#00F0FF" stroke-width="3"/>
+		<circle cx="190" cy="340" r="95" fill="#00F0FF" opacity="0.2"/>
+		<circle cx="190" cy="340" r="55" fill="#FFFFFF" opacity="0.15"/>
+		<!-- Dynamic Island / Pill Camera -->
+		<rect x="135" y="32" width="110" height="24" rx="12" fill="#04060C"/>
+		<circle cx="215" cy="44" r="5" fill="#00D4FF" opacity="0.7"/>
+		<!-- Screen Glare Reflection -->
+		<polygon points="18,18 200,18 100,762 18,762" fill="#FFFFFF" opacity="0.07"/>
+	</g>
+</g>
+
+<!-- LAYER 4: Brand_&_Headline (Left Column) -->
+<g id="Brand_x5F__x26__x5F_Headline">
+	<!-- Brand Logo -->
+	<g transform="translate(100, 100)">
+		<polygon points="40,2 52,28 78,38 52,48 40,74 28,48 2,38 28,28" fill="url(#ctaGrad)"/>
+		<circle cx="40" cy="38" r="30" fill="none" stroke="#00D4FF" stroke-width="2" stroke-dasharray="10 4"/>
+		<circle cx="40" cy="38" r="7" fill="#FFFFFF"/>
+		<text x="96" y="44" class="stTextWhite" font-size="34" letter-spacing="4">NOVA</text>
+		<text x="98" y="68" class="stTextCyan" font-weight="bold" font-size="16" letter-spacing="8">MOBILE</text>
+	</g>
+
+	<!-- Main Bold Stacked Headline -->
+	<text transform="matrix(1 0 0 1 100 340)" class="stTextWhite" font-size="94" line-height="100">
+		<tspan x="0" y="0">EXPERIENCE</tspan>
+		<tspan x="0" y="105">THE</tspan>
+		<tspan x="0" y="210" fill="#00D4FF">FUTURE.</tspan>
+	</text>
+
+	<!-- Subheadline / Tagline -->
+	<text transform="matrix(1 0 0 1 104 625)" class="stTextCyan" font-weight="bold" font-size="20" letter-spacing="4">
+		NOVA X1 ULTRA  |  5G AI FLAGSHIP
+	</text>
+	<text transform="matrix(1 0 0 1 104 665)" class="stTextDim" font-size="18" letter-spacing="1">
+		Breakthrough 3nm neural engine, ultra titanium frame,
+	</text>
+	<text transform="matrix(1 0 0 1 104 695)" class="stTextDim" font-size="18" letter-spacing="1">
+		and industry-leading computational astrophotography.
+	</text>
+
+	<!-- CTA Pill Button -->
+	<g transform="translate(100, 770)">
+		<rect x="0" y="0" width="380" height="66" rx="33" fill="url(#ctaGrad)"/>
+		<text x="190" y="41" fill="#03060D" font-family="'Arial Black',sans-serif" font-size="19" font-weight="900" letter-spacing="2" text-anchor="middle">WWW.NOVAMOBILE.COM</text>
+	</g>
+	<text transform="matrix(1 0 0 1 106 875)" class="stTextDim" font-size="15" letter-spacing="2">
+		NOW AVAILABLE AT AUTHORIZED RETAILERS WORLDWIDE
+	</text>
+</g>
+
+<!-- LAYER 5: Feature_Cards (Right Column) -->
+<g id="Feature_x5F_Cards">
+	<!-- Card 1: 200MP Camera -->
+	<g transform="translate(1260, 240)">
+		<rect x="0" y="0" width="540" height="150" rx="20" class="stCardBg"/>
+		<circle cx="65" cy="75" r="40" fill="#0A224E" stroke="#00D4FF" stroke-width="2"/>
+		<!-- Camera Icon -->
+		<g transform="translate(45, 55)" stroke="#00D4FF" stroke-width="2" fill="none">
+			<rect x="2" y="8" width="36" height="26" rx="5"/>
+			<circle cx="20" cy="21" r="8"/>
+			<path d="M12,8 L16,2 L24,2 L28,8"/>
+		</g>
+		<text x="130" y="58" class="stTextWhite" font-size="24" letter-spacing="1">200MP PRO OPTICS</text>
+		<text x="130" y="90" class="stTextCyan" font-size="17" font-weight="bold">AI Night Fusion &amp; 8K Cinematic Video</text>
+		<text x="130" y="118" class="stTextDim" font-size="14">F/1.4 aperture with quad-pixel sensor stabilization</text>
+	</g>
+
+	<!-- Card 2: 6000mAh Battery -->
+	<g transform="translate(1260, 430)">
+		<rect x="0" y="0" width="540" height="150" rx="20" class="stCardBg"/>
+		<circle cx="65" cy="75" r="40" fill="#0A224E" stroke="#00D4FF" stroke-width="2"/>
+		<!-- Battery Icon -->
+		<g transform="translate(48, 55)" stroke="#00D4FF" stroke-width="2" fill="none">
+			<rect x="2" y="6" width="30" height="30" rx="4"/>
+			<line x1="32" y1="15" x2="36" y2="15"/>
+			<line x1="32" y1="27" x2="36" y2="27"/>
+			<polygon points="17,10 11,22 19,22 13,32" fill="#00D4FF"/>
+		</g>
+		<text x="130" y="58" class="stTextWhite" font-size="24" letter-spacing="1">6000mAh HYPER CHARGE</text>
+		<text x="130" y="90" class="stTextCyan" font-size="17" font-weight="bold">120W Dual-Cell Boost | 0 to 100% in 15 Min</text>
+		<text x="130" y="118" class="stTextDim" font-size="14">All-day heavy gaming and multi-day standby power</text>
+	</g>
+
+	<!-- Card 3: 144Hz AMOLED -->
+	<g transform="translate(1260, 620)">
+		<rect x="0" y="0" width="540" height="150" rx="20" class="stCardBg"/>
+		<circle cx="65" cy="75" r="40" fill="#0A224E" stroke="#00D4FF" stroke-width="2"/>
+		<!-- Display Icon -->
+		<g transform="translate(46, 56)" stroke="#00D4FF" stroke-width="2" fill="none">
+			<rect x="2" y="2" width="36" height="26" rx="4"/>
+			<line x1="14" y1="36" x2="26" y2="36"/>
+			<line x1="20" y1="28" x2="20" y2="36"/>
+		</g>
+		<text x="130" y="58" class="stTextWhite" font-size="24" letter-spacing="1">6.9" 144Hz AMOLED</text>
+		<text x="130" y="90" class="stTextCyan" font-size="17" font-weight="bold">3000-Nit Peak HDR10+ Adaptive Refresh</text>
+		<text x="130" y="118" class="stTextDim" font-size="14">Billion-color quantum crystal curved edge-to-edge</text>
+	</g>
+</g>
+
+<!-- LAYER 6: Frame_&_Bleed_Guides -->
+<g id="Frame_x5F__x26__x5F_Bleed_x5F_Guides">
+	<!-- Tech Corner Brackets -->
+	<path d="M44,120 L44,44 L120,44" fill="none" stroke="#00D4FF" stroke-width="3"/>
+	<path d="M1876,120 L1876,44 L1800,44" fill="none" stroke="#00D4FF" stroke-width="3"/>
+	<path d="M44,960 L44,1036 L120,1036" fill="none" stroke="#00D4FF" stroke-width="3"/>
+	<path d="M1876,960 L1876,1036 L1800,1036" fill="none" stroke="#00D4FF" stroke-width="3"/>
+	<rect x="44" y="44" width="1832" height="992" fill="none" stroke="#00D4FF" stroke-width="1" stroke-dasharray="10 10" opacity="0.3"/>
+</g>
+</svg>

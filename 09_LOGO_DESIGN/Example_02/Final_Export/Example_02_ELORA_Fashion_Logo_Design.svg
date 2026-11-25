@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" width="2000" height="2000">
+<defs>
+  <linearGradient id="goldElora" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#F5DE9E"/>
+    <stop offset="50%" stop-color="#D4AF37"/>
+    <stop offset="100%" stop-color="#9C782E"/>
+  </linearGradient>
+</defs>
+
+<rect width="2000" height="2000" fill="#0A0A0A"/>
+
+<!-- Header -->
+<g transform="translate(100, 140)">
+  <text x="0" y="0" font-family="'Times New Roman', serif" font-weight="bold" font-size="52" fill="url(#goldElora)">ELORA</text>
+  <text x="0" y="44" font-family="'Arial', sans-serif" font-size="20" letter-spacing="8" fill="#A1A1AA">HAUTE COUTURE • PARIS • NEW YORK</text>
+  <line x1="0" y1="80" x2="1800" y2="80" stroke="#27272A" stroke-width="2"/>
+</g>
+
+<!-- Hero Central Lockup -->
+<g transform="translate(1000, 560)" text-anchor="middle">
+  <!-- Interlocking Monogram Crest -->
+  <g transform="translate(0, -80)">
+    <circle cx="0" cy="0" r="110" fill="none" stroke="url(#goldElora)" stroke-width="2"/>
+    <circle cx="0" cy="0" r="95" fill="none" stroke="url(#goldElora)" stroke-width="0.75" stroke-dasharray="8 4"/>
+    <text x="0" y="32" font-family="'Times New Roman', Georgia, serif" font-size="110" font-style="italic" fill="url(#goldElora)">E</text>
+  </g>
+  <text x="0" y="180" font-family="'Times New Roman', serif" font-size="110" letter-spacing="24" fill="#FFFFFF">ELORA</text>
+  <text x="0" y="240" font-family="'Arial', sans-serif" font-weight="bold" font-size="22" letter-spacing="16" fill="url(#goldElora)">MAISON DE COUTURE</text>
+</g>
+
+<!-- Grid Section -->
+<g transform="translate(100, 1050)">
+  <!-- White Card Presentation -->
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#FFFFFF"/>
+  <text x="50" y="70" font-family="'Times New Roman', serif" font-weight="bold" font-size="28" fill="#0A0A0A">LIGHT BACKGROUND APPLICATION</text>
+  <g transform="translate(430, 400)" text-anchor="middle">
+    <circle cx="0" cy="-60" r="80" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+    <text x="0" y="-35" font-family="'Times New Roman', serif" font-size="80" font-style="italic" fill="#0A0A0A">E</text>
+    <text x="0" y="110" font-family="'Times New Roman', serif" font-size="72" letter-spacing="18" fill="#0A0A0A">ELORA</text>
+  </g>
+</g>
+
+<g transform="translate(1040, 1050)">
+  <!-- Brand Pattern Showcase -->
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#141414" stroke="#27272A" stroke-width="2"/>
+  <text x="50" y="70" font-family="'Times New Roman', serif" font-weight="bold" font-size="28" fill="url(#goldElora)">BRAND MONOGRAM PATTERN</text>
+  <!-- 3x3 Monogram Pattern Grid -->
+  <g transform="translate(200, 180)">
+    <g fill="none" stroke="url(#goldElora)" stroke-width="1.2" opacity="0.4">
+      <circle cx="80" cy="80" r="40"/><circle cx="240" cy="80" r="40"/><circle cx="400" cy="80" r="40"/>
+      <circle cx="80" cy="240" r="40"/><circle cx="240" cy="240" r="40"/><circle cx="400" cy="240" r="40"/>
+      <circle cx="80" cy="400" r="40"/><circle cx="240" cy="400" r="40"/><circle cx="400" cy="400" r="40"/>
+    </g>
+  </g>
+</g>
+</svg>

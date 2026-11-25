@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs>
+  <linearGradient id="holoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED"/>
+    <stop offset="50%" stop-color="#EC4899"/>
+    <stop offset="100%" stop-color="#F97316"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="500" fill="#F4F4F5"/>
+<text x="400" y="45" font-family="'Arial Black', sans-serif" font-size="18" fill="#18181B" text-anchor="middle">PIXELCRAFT STUDIO - CREATIVE DESIGNER CARD (3.5" x 2")</text>
+
+<!-- Front Card -->
+<g transform="translate(45, 90)">
+  <rect x="0" y="0" width="340" height="200" rx="8" fill="url(#holoGrad)"/>
+  <!-- Isometric Cube -->
+  <g transform="translate(170, 75) scale(1.6)">
+    <polygon points="12,0 24,7 12,14 0,7" fill="#FFFFFF" opacity="0.9"/>
+    <polygon points="0,7 12,14 12,28 0,21" fill="#FFFFFF" opacity="0.7"/>
+    <polygon points="24,7 24,21 12,28 12,14" fill="#FFFFFF" opacity="0.5"/>
+  </g>
+  <text x="170" y="145" font-family="'Arial Black', sans-serif" font-size="20" letter-spacing="3" fill="#FFFFFF" text-anchor="middle">PIXELCRAFT</text>
+  <text x="170" y="165" font-family="'Arial', sans-serif" font-weight="bold" font-size="9" letter-spacing="4" fill="#FFFFFF" text-anchor="middle">STUDIO • BROOKLYN</text>
+  <text x="170" y="235" font-family="'Arial', sans-serif" font-weight="bold" font-size="12" fill="#71717A" text-anchor="middle">FRONT (HOLOGRAPHIC FOIL)</text>
+</g>
+
+<!-- Back Card -->
+<g transform="translate(415, 90)">
+  <rect x="0" y="0" width="340" height="200" rx="8" fill="#18181B"/>
+  <rect x="0" y="0" width="6" height="200" fill="url(#holoGrad)"/>
+  <g transform="translate(30, 42)">
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="18" fill="#FFFFFF">MAYA LIN</text>
+    <text x="0" y="18" font-family="'Arial', sans-serif" font-weight="bold" font-size="9" letter-spacing="2" fill="#F97316">FOUNDER &amp; CREATIVE DIRECTOR</text>
+  </g>
+
+  <g transform="translate(30, 95)" fill="#A1A1AA" font-family="'Arial', sans-serif" font-size="9">
+    <text x="0" y="0">E: maya@pixelcraft.studio</text>
+    <text x="0" y="18">P: +1 (212) 555-0144</text>
+    <text x="0" y="36">W: www.pixelcraft.studio</text>
+    <text x="0" y="54">IG: @pixelcraft_studio</text>
+  </g>
+
+  <text x="310" y="170" font-family="'Arial Black', sans-serif" font-size="16" fill="url(#holoGrad)" text-anchor="end">DESIGN THAT MOVES.</text>
+  <text x="170" y="235" font-family="'Arial', sans-serif" font-weight="bold" font-size="12" fill="#71717A" text-anchor="middle">BACK (MATTE VELVET FINISH)</text>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <radialGradient id="studioGlow" cx="68%" cy="48%" r="48%">
+      <stop offset="0%" stop-color="#3A2E1A"/>
+      <stop offset="45%" stop-color="#19191C"/>
+      <stop offset="100%" stop-color="#0B0B0D"/>
+    </radialGradient>
+    <linearGradient id="floorGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#18181B" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#050507" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#studioGlow)"/>
+  <rect x="0" y="720" width="1920" height="360" fill="url(#floorGrad)"/>
+</svg>

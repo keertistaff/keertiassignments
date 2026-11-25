@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000" width="2000" height="2000">
+<defs>
+  <linearGradient id="techPrism" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#06B6D4"/>
+    <stop offset="50%" stop-color="#2563EB"/>
+    <stop offset="100%" stop-color="#1D4ED8"/>
+  </linearGradient>
+</defs>
+
+<rect width="2000" height="2000" fill="#F8FAFC"/>
+
+<!-- Presentation Board Header -->
+<g transform="translate(100, 140)">
+  <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="52" fill="#0F172A">TECHNOVA</text>
+  <text x="0" y="44" font-family="'Arial', sans-serif" font-weight="bold" font-size="24" letter-spacing="8" fill="#2563EB">BRAND IDENTITY GUIDELINES &amp; LOGO SYSTEM</text>
+  <line x1="0" y1="80" x2="1800" y2="80" stroke="#CBD5E1" stroke-width="3"/>
+</g>
+
+<!-- SECTION 1: HERO LOGO LOCKUP (Top Center) -->
+<g transform="translate(1000, 560)">
+  <!-- Monogram Mark -->
+  <g transform="translate(0, -80) scale(3.5)">
+    <!-- Outer Hexagon -->
+    <polygon points="0,-48 42,-24 42,24 0,48 -42,24 -42,-24" fill="url(#techPrism)"/>
+    <!-- Inner Facets -->
+    <polygon points="0,-48 0,0 -42,-24" fill="#06B6D4" opacity="0.4"/>
+    <polygon points="42,-24 0,0 42,24" fill="#1E40AF" opacity="0.5"/>
+    <polygon points="0,0 0,48 -42,24" fill="#0284C7" opacity="0.7"/>
+    <polygon points="0,0 42,24 0,48" fill="#1D4ED8" opacity="0.9"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="0" y="180" font-family="'Arial Black', sans-serif" font-size="72" letter-spacing="8" fill="#0F172A" text-anchor="middle">TECHNOVA</text>
+  <text x="0" y="235" font-family="'Arial', sans-serif" font-weight="bold" font-size="24" letter-spacing="18" fill="#64748B" text-anchor="middle">SOLUTIONS</text>
+</g>
+
+<!-- SECTION 2: CONSTRUCTION GRID (Bottom Left) -->
+<g transform="translate(100, 1050)">
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="50" y="70" font-family="'Arial Black', sans-serif" font-size="28" fill="#0F172A">01. GEOMETRIC CONSTRUCTION GRID</text>
+  <text x="50" y="105" font-family="'Arial', sans-serif" font-size="18" fill="#64748B">30°/60° isometric projection grid with precise mathematical symmetry.</text>
+
+  <!-- Construction Circles & Guides -->
+  <g transform="translate(430, 440)" stroke="#06B6D4" stroke-width="1.5" fill="none" opacity="0.4">
+    <circle cx="0" cy="0" r="180" stroke-dasharray="8 6"/>
+    <circle cx="0" cy="0" r="120"/>
+    <circle cx="0" cy="0" r="60"/>
+    <line x1="-240" y1="0" x2="240" y2="0"/>
+    <line x1="0" y1="-240" x2="0" y2="240"/>
+    <line x1="-180" y1="-104" x2="180" y2="104"/>
+    <line x1="-180" y1="104" x2="180" y2="-104"/>
+  </g>
+  <!-- Superimposed Logo -->
+  <g transform="translate(430, 440) scale(2.2)">
+    <polygon points="0,-48 42,-24 42,24 0,48 -42,24 -42,-24" fill="none" stroke="#2563EB" stroke-width="4"/>
+    <polygon points="0,0 0,48 -42,24" fill="#0284C7" opacity="0.5"/>
+    <polygon points="0,0 42,24 0,48" fill="#1D4ED8" opacity="0.5"/>
+  </g>
+</g>
+
+<!-- SECTION 3: COLORWAYS & SWATCHES (Bottom Right) -->
+<g transform="translate(1040, 1050)">
+  <rect x="0" y="0" width="860" height="780" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="50" y="70" font-family="'Arial Black', sans-serif" font-size="28" fill="#0F172A">02. MONOCHROME &amp; COLOR BREAKDOWN</text>
+
+  <!-- Dark Mode Application -->
+  <g transform="translate(50, 120)">
+    <rect x="0" y="0" width="360" height="260" rx="14" fill="#0F172A"/>
+    <g transform="translate(180, 100) scale(1.4)">
+      <polygon points="0,-24 21,-12 21,12 0,24 -21,12 -21,-12" fill="#00D4FF"/>
+    </g>
+    <text x="180" y="180" font-family="'Arial Black', sans-serif" font-size="24" fill="#FFFFFF" text-anchor="middle">TECHNOVA</text>
+    <text x="180" y="225" font-family="'Arial', sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">DARK / DIGITAL APPLICATION</text>
+  </g>
+
+  <!-- Monochrome Application -->
+  <g transform="translate(450, 120)">
+    <rect x="0" y="0" width="360" height="260" rx="14" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+    <g transform="translate(180, 100) scale(1.4)">
+      <polygon points="0,-24 21,-12 21,12 0,24 -21,12 -21,-12" fill="#0F172A"/>
+    </g>
+    <text x="180" y="180" font-family="'Arial Black', sans-serif" font-size="24" fill="#0F172A" text-anchor="middle">TECHNOVA</text>
+    <text x="180" y="225" font-family="'Arial', sans-serif" font-size="12" fill="#64748B" text-anchor="middle">100% BLACK INK REPRODUCTION</text>
+  </g>
+
+  <!-- Swatches -->
+  <g transform="translate(50, 430)">
+    <rect x="0" y="0" width="230" height="280" rx="12" fill="#2563EB"/>
+    <rect x="0" y="170" width="230" height="110" rx="12" fill="#FFFFFF"/>
+    <text x="20" y="205" font-family="'Arial Black', sans-serif" font-size="16" fill="#0F172A">KINETIC COBALT</text>
+    <text x="20" y="230" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">HEX: #2563EB</text>
+    <text x="20" y="252" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">C:85 M:65 Y:0 K:0</text>
+  </g>
+  <g transform="translate(315, 430)">
+    <rect x="0" y="0" width="230" height="280" rx="12" fill="#06B6D4"/>
+    <rect x="0" y="170" width="230" height="110" rx="12" fill="#FFFFFF"/>
+    <text x="20" y="205" font-family="'Arial Black', sans-serif" font-size="16" fill="#0F172A">CYBER CYAN</text>
+    <text x="20" y="230" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">HEX: #06B6D4</text>
+    <text x="20" y="252" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">C:70 M:0 Y:10 K:0</text>
+  </g>
+  <g transform="translate(580, 430)">
+    <rect x="0" y="0" width="230" height="280" rx="12" fill="#0F172A"/>
+    <rect x="0" y="170" width="230" height="110" rx="12" fill="#FFFFFF"/>
+    <text x="20" y="205" font-family="'Arial Black', sans-serif" font-size="16" fill="#0F172A">DEEP SLATE</text>
+    <text x="20" y="230" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">HEX: #0F172A</text>
+    <text x="20" y="252" font-family="'Arial', sans-serif" font-size="13" fill="#64748B">C:80 M:70 Y:55 K:75</text>
+  </g>
+</g>
+</svg>

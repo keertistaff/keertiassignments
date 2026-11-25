@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="kraftBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#D9BE9B"/>
+    <stop offset="50%" stop-color="#C8A882"/>
+    <stop offset="100%" stop-color="#B3926B"/>
+  </linearGradient>
+</defs>
+
+<!-- Dieline Backdrop Canvas -->
+<rect width="800" height="600" fill="#F3F4F6"/>
+
+<!-- Legend -->
+<g transform="translate(40, 25)">
+  <line x1="0" y1="10" x2="30" y2="10" stroke="#DC2626" stroke-width="2"/>
+  <text x="36" y="14" font-family="'Arial', sans-serif" font-size="11" fill="#374151">Cut Line</text>
+  <line x1="120" y1="10" x2="150" y2="10" stroke="#16A34A" stroke-width="2" stroke-dasharray="6 3"/>
+  <text x="156" y="14" font-family="'Arial', sans-serif" font-size="11" fill="#374151">Crease / Fold</text>
+  <line x1="260" y1="10" x2="290" y2="10" stroke="#2563EB" stroke-width="1" stroke-dasharray="2 2"/>
+  <text x="296" y="14" font-family="'Arial', sans-serif" font-size="11" fill="#374151">Bleed Limit (3mm)</text>
+</g>
+
+<!-- Flat Packaging Box Layout (Left Gusset, Front Panel, Right Gusset, Back Panel) -->
+<g transform="translate(50, 70)">
+  <!-- Panel 1: Left Gusset (120 x 420) -->
+  <rect x="0" y="40" width="120" height="420" fill="url(#kraftBg)" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <text x="60" y="120" font-family="'Arial Black', sans-serif" font-size="12" fill="#1C130E" text-anchor="middle" transform="rotate(-90 60 120)">BREW &amp; ROAST SPECS</text>
+  <text x="60" y="240" font-family="'Arial', sans-serif" font-size="9" fill="#1C130E" text-anchor="middle">
+    <tspan x="60" dy="0">WHOLE BEAN</tspan>
+    <tspan x="60" dy="16">100% ARABICA</tspan>
+    <tspan x="60" dy="16">ALT: 1,850M</tspan>
+    <tspan x="60" dy="16">WASHED PROCESS</tspan>
+  </text>
+
+  <!-- Panel 2: Front Display Panel (220 x 420) -->
+  <rect x="120" y="40" width="220" height="420" fill="url(#kraftBg)" stroke="#DC2626" stroke-width="2"/>
+  <!-- Front Brand Badge -->
+  <g transform="translate(230, 90)">
+    <circle cx="0" cy="0" r="32" fill="#1C130E"/>
+    <text x="0" y="7" fill="#C17A43" font-family="'Arial Black', sans-serif" font-size="20" text-anchor="middle">BC</text>
+    <text x="0" y="55" fill="#1C130E" font-family="'Arial Black', sans-serif" font-size="20" letter-spacing="3" text-anchor="middle">BREWCRAFT</text>
+    <text x="0" y="72" fill="#C17A43" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" letter-spacing="4" text-anchor="middle">ARTISAN ROASTERS</text>
+  </g>
+
+  <!-- Product Label Badge -->
+  <rect x="145" y="190" width="170" height="150" rx="8" fill="#1C130E"/>
+  <text x="230" y="222" fill="#FBF8F3" font-family="'Arial Black', sans-serif" font-size="16" letter-spacing="1" text-anchor="middle">HIGHLAND RESERVE</text>
+  <text x="230" y="240" fill="#C17A43" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" letter-spacing="2" text-anchor="middle">SINGLE ORIGIN ETHIOPIA</text>
+  <line x1="165" y1="252" x2="295" y2="252" stroke="#C17A43" stroke-width="1"/>
+  <text x="230" y="272" fill="#D9BE9B" font-family="'Arial', sans-serif" font-size="10" text-anchor="middle">Tasting Notes:</text>
+  <text x="230" y="288" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" text-anchor="middle">Dark Chocolate • Bergamot • Honey</text>
+  <!-- Roast Gauge -->
+  <text x="230" y="315" fill="#D9BE9B" font-family="'Arial', sans-serif" font-size="9" text-anchor="middle">ROAST: MEDIUM-DARK</text>
+  <rect x="185" y="322" width="90" height="6" rx="3" fill="#3D291D"/>
+  <rect x="185" y="322" width="65" height="6" rx="3" fill="#C17A43"/>
+
+  <!-- Net Weight -->
+  <text x="230" y="415" fill="#1C130E" font-family="'Arial Black', sans-serif" font-size="13" letter-spacing="1" text-anchor="middle">NET WT 12 OZ (340g)</text>
+
+  <!-- Panel 3: Right Gusset (120 x 420) -->
+  <rect x="340" y="40" width="120" height="420" fill="url(#kraftBg)" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <text x="400" y="120" font-family="'Arial Black', sans-serif" font-size="12" fill="#1C130E" text-anchor="middle" transform="rotate(-90 400 120)">BREWING METHOD</text>
+  <text x="400" y="240" font-family="'Arial', sans-serif" font-size="9" fill="#1C130E" text-anchor="middle">
+    <tspan x="400" dy="0">POUR-OVER: 1:16</tspan>
+    <tspan x="400" dy="16">WATER: 93°C / 200°F</tspan>
+    <tspan x="400" dy="16">GRIND: MEDIUM-FINE</tspan>
+    <tspan x="400" dy="16">TIME: 3:30 MIN</tspan>
+  </text>
+
+  <!-- Panel 4: Back Panel with Barcode (220 x 420) -->
+  <rect x="460" y="40" width="220" height="420" fill="url(#kraftBg)" stroke="#DC2626" stroke-width="2"/>
+  <text x="570" y="90" fill="#1C130E" font-family="'Arial Black', sans-serif" font-size="14" letter-spacing="1" text-anchor="middle">OUR COFFEE STORY</text>
+  <text x="570" y="120" fill="#2E231D" font-family="'Arial', sans-serif" font-size="10" text-anchor="middle" width="180">
+    <tspan x="570" dy="0">Ethically sourced from smallholder</tspan>
+    <tspan x="570" dy="15">organic farms in the Yirgacheffe</tspan>
+    <tspan x="570" dy="15">region. Hand-roasted in small batches</tspan>
+    <tspan x="570" dy="15">for uncompromising flavor.</tspan>
+  </text>
+
+  <!-- Barcode Box -->
+  <rect x="500" y="280" width="140" height="80" fill="#FFFFFF" stroke="#1C130E" stroke-width="1"/>
+  <!-- Barcode Bars -->
+  <g fill="#000000" transform="translate(515, 292)">
+    <rect x="0" y="0" width="3" height="45"/><rect x="5" y="0" width="2" height="45"/><rect x="10" y="0" width="4" height="45"/>
+    <rect x="17" y="0" width="1" height="45"/><rect x="22" y="0" width="3" height="45"/><rect x="28" y="0" width="5" height="45"/>
+    <rect x="36" y="0" width="2" height="45"/><rect x="42" y="0" width="4" height="45"/><rect x="50" y="0" width="1" height="45"/>
+    <rect x="55" y="0" width="3" height="45"/><rect x="62" y="0" width="2" height="45"/><rect x="68" y="0" width="4" height="45"/>
+    <rect x="76" y="0" width="3" height="45"/><rect x="83" y="0" width="2" height="45"/><rect x="90" y="0" width="4" height="45"/>
+    <text x="55" y="58" font-family="'Arial', sans-serif" font-size="10" text-anchor="middle">8 901234 567890</text>
+  </g>
+
+  <!-- Glue Flap -->
+  <polygon points="680,40 705,60 705,440 680,460" fill="#E5E7EB" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <text x="692" y="250" font-family="'Arial', sans-serif" font-size="9" fill="#9CA3AF" text-anchor="middle" transform="rotate(-90 692 250)">GLUE FLAP</text>
+</g>
+</svg>

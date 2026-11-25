@@ -1,0 +1,7 @@
+ASSET SOURCES DOCUMENTATION
+Category 02: Infographic Design - Example 03 (Water Conservation)
+================================================================
+1. Water Droplet & Nature Vectors
+   - Source: Original custom vector shapes (CC0)
+2. Typography: Poppins & Inter
+   - Source: Google Fonts (OFL 1.1)

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 70">
+  <rect x="0" y="0" width="50" height="50" rx="6" fill="#0A0A0A"/><text x="25" y="65" font-size="9" text-anchor="middle" fill="#666">#0A0A0A</text>
+  <rect x="60" y="0" width="50" height="50" rx="6" fill="#A3E635"/><text x="85" y="65" font-size="9" text-anchor="middle" fill="#666">#A3E635</text>
+  <rect x="120" y="0" width="50" height="50" rx="6" fill="#EA580C"/><text x="145" y="65" font-size="9" text-anchor="middle" fill="#666">#EA580C</text>
+  <rect x="180" y="0" width="50" height="50" rx="6" fill="#FFFFFF"/><text x="205" y="65" font-size="9" text-anchor="middle" fill="#666">#FFFFFF</text>
+</svg>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842">
+<defs>
+  <linearGradient id="parchment" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#FFFDF9"/>
+    <stop offset="100%" stop-color="#FBF7EE"/>
+  </linearGradient>
+</defs>
+
+<rect width="595" height="842" fill="url(#parchment)"/>
+
+<!-- Elegant Double Border -->
+<rect x="25" y="25" width="545" height="792" fill="none" stroke="#991B1B" stroke-width="1.5"/>
+<rect x="31" y="31" width="533" height="780" fill="none" stroke="#4D7C0F" stroke-width="0.75" stroke-dasharray="6 3"/>
+
+<!-- Header -->
+<g transform="translate(297, 68)" text-anchor="middle">
+  <path d="M-30,-15 C-15,-20 0,-10 0,0 C0,-10 15,-20 30,-15" fill="none" stroke="#4D7C0F" stroke-width="1.5"/>
+  <text x="0" y="24" font-family="'Times New Roman', Georgia, serif" font-weight="bold" font-size="34" letter-spacing="3" fill="#1C1917">BELLA CUCINA</text>
+  <text x="0" y="44" font-family="'Times New Roman', serif" font-style="italic" font-size="13" letter-spacing="4" fill="#991B1B">TRATTORIA &amp; PIZZERIA TRADIZIONALE</text>
+</g>
+
+<!-- Divider Line -->
+<line x1="100" y1="130" x2="495" y2="130" stroke="#991B1B" stroke-width="1"/>
+
+<!-- SECTION 1: ANTIPASTI -->
+<g transform="translate(60, 160)">
+  <rect x="0" y="0" width="130" height="22" rx="4" fill="#991B1B"/>
+  <text x="65" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">ANTIPASTI</text>
+
+  <!-- Item 1 -->
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Bruschetta al Pomodoro e Basilico</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$14.50</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Toasted sourdough, heirloom tomatoes, garlic, cold-pressed olive oil, fresh basil.</text>
+
+  <!-- Item 2 -->
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Carpaccio di Manzo con Tartufo</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$19.00</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Thinly sliced prime beef tenderloin, shaved black truffle, arugula, 24-mo Parmigiano.</text>
+
+  <!-- Item 3 -->
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Burrata Pugliese con Prosciutto di Parma</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$18.50</text>
+  <text x="0" y="132" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Creamy artisanal burrata, aged Parma prosciutto, balsamic glaze, grilled focaccia.</text>
+</g>
+
+<!-- SECTION 2: PRIMI PIATTI (PASTA) -->
+<g transform="translate(60, 325)">
+  <rect x="0" y="0" width="130" height="22" rx="4" fill="#991B1B"/>
+  <text x="65" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">PRIMI PIATTI</text>
+
+  <!-- Item 1 -->
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Tagliatelle al Ragù Bolognese</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$24.00</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Handmade egg ribbon pasta, slow-simmered prime beef &amp; veal ragù, aged pecorino.</text>
+
+  <!-- Item 2 -->
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Spaghetti ai Frutti di Mare</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$28.50</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Bronze-cut pasta, wild tiger prawns, Mediterranean clams, calamari, white wine chili sauce.</text>
+
+  <!-- Item 3 -->
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Ravioli di Zucca con Salvia e Burro</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$22.00</text>
+  <text x="0" y="132" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Butternut squash filled ravioli, brown butter, crispy sage, crushed toasted amaretti.</text>
+</g>
+
+<!-- SECTION 3: PIZZE CLASSICHE -->
+<g transform="translate(60, 490)">
+  <rect x="0" y="0" width="130" height="22" rx="4" fill="#991B1B"/>
+  <text x="65" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">PIZZE A LEGNA</text>
+
+  <!-- Item 1 -->
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Margherita D.O.P.</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$19.50</text>
+  <text x="0" y="56" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">San Marzano D.O.P. tomatoes, Mozzarella di Bufala Campana, fresh basil, EVOO.</text>
+
+  <!-- Item 2 -->
+  <text x="0" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Diavola Calabrese</text>
+  <text x="475" y="80" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$22.00</text>
+  <text x="0" y="94" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Spicy Calabrian soppressata, fior di latte mozzarella, hot chili oil, oregano.</text>
+
+  <!-- Item 3 -->
+  <text x="0" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Tartufata con Funghi Porcini</text>
+  <text x="475" y="118" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$25.50</text>
+  <text x="0" y="132" font-family="'Times New Roman', serif" font-style="italic" font-size="10" fill="#666666">Truffle cream base, wild porcini mushrooms, taleggio cheese, fresh thyme.</text>
+</g>
+
+<!-- SECTION 4: DOLCI & VINI -->
+<g transform="translate(60, 655)">
+  <rect x="0" y="0" width="130" height="22" rx="4" fill="#4D7C0F"/>
+  <text x="65" y="15" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">DOLCI &amp; VINI</text>
+
+  <!-- Item 1 -->
+  <text x="0" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Tiramisù Tradizionale al Mascarpone</text>
+  <text x="475" y="42" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$11.00</text>
+  <!-- Item 2 -->
+  <text x="0" y="66" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#1C1917">Panna Cotta alla Vaniglia del Madagascar</text>
+  <text x="475" y="66" font-family="'Times New Roman', serif" font-weight="bold" font-size="13" fill="#991B1B" text-anchor="end">$10.50</text>
+</g>
+
+<!-- Footer -->
+<text x="297" y="775" font-family="'Times New Roman', serif" font-style="italic" font-size="11" fill="#4D7C0F" text-anchor="middle">
+  Tutti i piatti sono preparati freschi ogni giorno. Buon Appetito!
+</text>
+</svg>

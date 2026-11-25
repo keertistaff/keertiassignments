@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842">
+<rect width="595" height="842" fill="#F5F5F4"/>
+
+<!-- Header -->
+<g transform="translate(60, 60)">
+  <circle cx="20" cy="20" r="16" fill="#292524"/>
+  <text x="20" y="26" font-family="'Arial Black', sans-serif" font-size="16" fill="#D97706" text-anchor="middle">CC</text>
+  <text x="50" y="24" font-family="'Arial Black', sans-serif" font-size="24" fill="#292524">COFFEE CORNER</text>
+  <text x="50" y="40" font-family="'Arial', sans-serif" font-weight="bold" font-size="10" letter-spacing="3" fill="#78716C">ARTISANAL BREWS &amp; BAKERY</text>
+</g>
+<line x1="60" y1="120" x2="535" y2="120" stroke="#292524" stroke-width="2"/>
+
+<!-- COLUMN 1: SPECIALTY COFFEE (Left 220px) -->
+<g transform="translate(60, 150)">
+  <rect x="0" y="0" width="140" height="24" rx="4" fill="#292524"/>
+  <text x="70" y="16" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="1" text-anchor="middle">ESPRESSO BAR</text>
+
+  <!-- Items -->
+  <g font-family="'Arial', sans-serif" transform="translate(0, 45)">
+    <text x="0" y="0" font-weight="bold" font-size="13" fill="#292524">Espresso Solo / Doppio</text>
+    <text x="220" y="0" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$3.50 / $4.50</text>
+
+    <text x="0" y="32" font-weight="bold" font-size="13" fill="#292524">Flat White (Oat / Dairy)</text>
+    <text x="220" y="32" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$5.25</text>
+
+    <text x="0" y="64" font-weight="bold" font-size="13" fill="#292524">Vanilla Bean Latte</text>
+    <text x="220" y="64" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$5.75</text>
+
+    <text x="0" y="96" font-weight="bold" font-size="13" fill="#292524">Cortado (1:1 Ratio)</text>
+    <text x="220" y="96" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$4.75</text>
+
+    <text x="0" y="128" font-weight="bold" font-size="13" fill="#292524">Mocha Valrhona 70%</text>
+    <text x="220" y="128" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$6.25</text>
+  </g>
+
+  <!-- Cold Brews -->
+  <rect x="0" y="220" width="140" height="24" rx="4" fill="#292524"/>
+  <text x="70" y="236" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="1" text-anchor="middle">COLD BREW &amp; ICED</text>
+  <g font-family="'Arial', sans-serif" transform="translate(0, 265)">
+    <text x="0" y="0" font-weight="bold" font-size="13" fill="#292524">Nitro Cold Brew on Tap</text>
+    <text x="220" y="0" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$5.50</text>
+
+    <text x="0" y="32" font-weight="bold" font-size="13" fill="#292524">Iced Spanish Latte</text>
+    <text x="220" y="32" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$6.00</text>
+
+    <text x="0" y="64" font-weight="bold" font-size="13" fill="#292524">Matcha Ceremony Tonic</text>
+    <text x="220" y="64" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$6.50</text>
+  </g>
+</g>
+
+<!-- Vertical Divider -->
+<line x1="300" y1="150" x2="300" y2="700" stroke="#E7E5E4" stroke-width="1.5"/>
+
+<!-- COLUMN 2: FOOD & BAKERY (Right 220px) -->
+<g transform="translate(325, 150)">
+  <rect x="0" y="0" width="140" height="24" rx="4" fill="#D97706"/>
+  <text x="70" y="16" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="1" text-anchor="middle">ARTISAN TOASTS</text>
+
+  <g font-family="'Arial', sans-serif" transform="translate(0, 45)">
+    <text x="0" y="0" font-weight="bold" font-size="13" fill="#292524">Avocado Sourdough Toast</text>
+    <text x="210" y="0" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$12.50</text>
+    <text x="0" y="15" font-size="10" fill="#78716C">Poached farm egg, dukkah, microgreens.</text>
+
+    <text x="0" y="42" font-weight="bold" font-size="13" fill="#292524">Truffle Ricotta &amp; Wild Honey</text>
+    <text x="210" y="42" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$13.00</text>
+    <text x="0" y="57" font-size="10" fill="#78716C">Whipped ricotta, figs, crushed walnuts.</text>
+
+    <text x="0" y="84" font-weight="bold" font-size="13" fill="#292524">Smoked Salmon Brioche</text>
+    <text x="210" y="84" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$14.50</text>
+    <text x="0" y="99" font-size="10" fill="#78716C">Capers, whipped dill cream cheese, lemon.</text>
+  </g>
+
+  <!-- Bakery -->
+  <rect x="0" y="220" width="140" height="24" rx="4" fill="#D97706"/>
+  <text x="70" y="236" font-family="'Arial Black', sans-serif" font-size="10" fill="#FFFFFF" letter-spacing="1" text-anchor="middle">FRESH BAKERY</text>
+  <g font-family="'Arial', sans-serif" transform="translate(0, 265)">
+    <text x="0" y="0" font-weight="bold" font-size="13" fill="#292524">French Butter Croissant</text>
+    <text x="210" y="0" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$4.50</text>
+
+    <text x="0" y="32" font-weight="bold" font-size="13" fill="#292524">Pain au Chocolat (Valrhona)</text>
+    <text x="210" y="32" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$5.25</text>
+
+    <text x="0" y="64" font-weight="bold" font-size="13" fill="#292524">Almond Cardamom Swirl</text>
+    <text x="210" y="64" font-weight="bold" font-size="13" fill="#D97706" text-anchor="end">$5.50</text>
+  </g>
+</g>
+
+<!-- Footer Banner -->
+<g transform="translate(60, 720)">
+  <rect x="0" y="0" width="475" height="50" rx="8" fill="#292524"/>
+  <text x="237" y="30" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" fill="#F5F5F4" letter-spacing="2" text-anchor="middle">
+    FREE HIGH-SPEED WI-FI • PLANT-BASED MILKS AVAILABLE (OAT, ALMOND, COCONUT)
+  </text>
+</g>
+</svg>

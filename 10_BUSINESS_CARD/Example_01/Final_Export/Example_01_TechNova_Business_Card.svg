@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<rect width="800" height="500" fill="#F1F5F9"/>
+
+<text x="400" y="45" font-family="'Arial Black', sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">TECHNOVA SOLUTIONS - BUSINESS CARD SPECIFICATION (3.5" x 2")</text>
+
+<!-- FRONT CARD (Left, 340 x 200 pt) -->
+<g transform="translate(45, 90)">
+  <!-- Drop Shadow -->
+  <rect x="0" y="0" width="340" height="200" rx="8" fill="#0F172A" filter="drop-shadow(0 10px 15px rgba(0,0,0,0.1))"/>
+  <!-- Cyber Line Circuit -->
+  <g stroke="#0284C7" stroke-width="1" opacity="0.3" fill="none">
+    <polyline points="20,180 80,180 110,150 200,150"/>
+    <circle cx="200" cy="150" r="3" fill="#06B6D4"/>
+    <polyline points="320,20 260,20 230,50 160,50"/>
+    <circle cx="160" cy="50" r="3" fill="#06B6D4"/>
+  </g>
+  <!-- Center Logo -->
+  <g transform="translate(170, 90)">
+    <polygon points="16,0 32,9 32,27 16,36 0,27 0,9" fill="#0284C7" transform="translate(-16, -24) scale(1.4)"/>
+    <text x="0" y="44" font-family="'Arial Black', sans-serif" font-size="18" letter-spacing="4" fill="#FFFFFF" text-anchor="middle">TECHNOVA</text>
+    <text x="0" y="58" font-family="'Arial', sans-serif" font-size="8" letter-spacing="4" fill="#38BDF8" text-anchor="middle">SOLUTIONS</text>
+  </g>
+  <text x="170" y="235" font-family="'Arial', sans-serif" font-weight="bold" font-size="12" fill="#64748B" text-anchor="middle">FRONT (SPOT UV BRAND LOGO)</text>
+</g>
+
+<!-- BACK CARD (Right, 340 x 200 pt) -->
+<g transform="translate(415, 90)">
+  <rect x="0" y="0" width="340" height="200" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <rect x="0" y="0" width="8" height="200" rx="2" fill="#0284C7"/>
+
+  <!-- Person Info -->
+  <g transform="translate(30, 42)">
+    <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="16" fill="#0F172A">DR. ALEXANDER VANCE</text>
+    <text x="0" y="16" font-family="'Arial', sans-serif" font-weight="bold" font-size="9" letter-spacing="1" fill="#0284C7">CHIEF TECHNOLOGY OFFICER</text>
+  </g>
+
+  <!-- Details -->
+  <g transform="translate(30, 85)" fill="#334155" font-family="'Arial', sans-serif" font-size="9">
+    <text x="0" y="0">P: +1 (800) 555-0199  •  M: +1 (415) 890-2100</text>
+    <text x="0" y="18">E: avance@technovasolutions.com</text>
+    <text x="0" y="36">W: www.technovasolutions.com</text>
+    <text x="0" y="54">A: 100 Innovation Way, Suite 400, Silicon Valley, CA</text>
+  </g>
+
+  <!-- Mini QR Code -->
+  <g transform="translate(265, 120)">
+    <rect x="0" y="0" width="55" height="55" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+    <rect x="8" y="8" width="14" height="14" fill="#0F172A"/>
+    <rect x="33" y="8" width="14" height="14" fill="#0F172A"/>
+    <rect x="8" y="33" width="14" height="14" fill="#0F172A"/>
+    <rect x="25" y="25" width="8" height="8" fill="#0284C7"/>
+  </g>
+  <text x="170" y="235" font-family="'Arial', sans-serif" font-weight="bold" font-size="12" fill="#64748B" text-anchor="middle">BACK (INFO &amp; VCARD QR)</text>
+</g>
+
+<!-- Production Specs Footer -->
+<g transform="translate(45, 370)">
+  <rect x="0" y="0" width="710" height="75" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="355" y="28" font-family="'Arial Black', sans-serif" font-size="12" fill="#0F172A" text-anchor="middle">PRINT PRODUCTION SPECIFICATIONS</text>
+  <text x="355" y="50" font-family="'Arial', sans-serif" font-size="10" fill="#64748B" text-anchor="middle">
+    Standard Trim: 3.5" x 2.0" (88.9 x 50.8 mm) • Bleed: 0.125" (3.175 mm) • Stock: 400 GSM Silk Matte with Soft-Touch Lamination
+  </text>
+</g>
+</svg>

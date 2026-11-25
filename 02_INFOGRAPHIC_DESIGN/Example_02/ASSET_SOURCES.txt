@@ -1,0 +1,7 @@
+ASSET SOURCES DOCUMENTATION
+Category 02: Infographic Design - Example 02 (AI in Daily Life)
+==============================================================
+1. Custom Neural Network Vector Nodes
+   - Source: Original vector artwork created for this assignment (CC0)
+2. Typography: Orbitron & Inter
+   - Source: Google Fonts (OFL 1.1)

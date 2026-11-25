@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 842 1191" width="842" height="1191">
+<defs>
+  <radialGradient id="festGlow" cx="50%" cy="35%" r="70%">
+    <stop offset="0%" stop-color="#4A0E4E"/>
+    <stop offset="45%" stop-color="#1E0A3C"/>
+    <stop offset="100%" stop-color="#080314"/>
+  </radialGradient>
+  <linearGradient id="magentaCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#D946EF"/>
+    <stop offset="50%" stop-color="#8B5CF6"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<rect width="842" height="1191" fill="url(#festGlow)"/>
+
+<!-- Outer Poster Frame -->
+<rect x="40" y="40" width="762" height="1111" fill="none" stroke="#D946EF" stroke-width="1.5" stroke-dasharray="12 6" opacity="0.4"/>
+
+<!-- Concentric Vector Soundwave Rings -->
+<g stroke="#06B6D4" stroke-width="2" fill="none" opacity="0.25">
+  <circle cx="421" cy="420" r="140"/>
+  <circle cx="421" cy="420" r="220" stroke-dasharray="10 10"/>
+  <circle cx="421" cy="420" r="300"/>
+  <circle cx="421" cy="420" r="380" stroke-dasharray="16 8"/>
+</g>
+
+<!-- Top Date & Location Header -->
+<g transform="translate(80, 80)">
+  <rect x="0" y="0" width="220" height="36" rx="18" fill="#D946EF"/>
+  <text x="110" y="24" font-family="'Arial Black', sans-serif" font-size="14" fill="#0F0728" text-anchor="middle">AUGUST 21-23, 2026</text>
+  <text x="682" y="24" font-family="'Arial Black', sans-serif" font-size="15" letter-spacing="3" fill="#06B6D4" text-anchor="end">GOLDEN BAY PARK, CA</text>
+</g>
+
+<!-- Master Festival Title -->
+<g transform="translate(421, 220)" text-anchor="middle">
+  <text x="0" y="0" font-family="'Arial Black', sans-serif" font-size="28" letter-spacing="12" fill="#FBBF24">THE 8TH ANNUAL</text>
+  <text x="0" y="90" font-family="'Arial Black', sans-serif" font-size="94" letter-spacing="4" fill="#FFFFFF">SOUND</text>
+  <text x="0" y="175" font-family="'Arial Black', sans-serif" font-size="94" letter-spacing="4" fill="url(#magentaCyan)">WAVE</text>
+  <text x="0" y="220" font-family="'Arial Black', sans-serif" font-size="22" letter-spacing="8" fill="#E2E8F0">ELECTRONIC &amp; INDIE MUSIC FESTIVAL</text>
+</g>
+
+<!-- Lineup Grid (Curated Headliners) -->
+<g transform="translate(80, 560)">
+  <!-- Headliners -->
+  <rect x="0" y="0" width="682" height="70" rx="12" fill="#180B33" stroke="#D946EF" stroke-width="1.5"/>
+  <text x="341" y="44" font-family="'Arial Black', sans-serif" font-size="26" fill="#FBBF24" letter-spacing="2" text-anchor="middle">
+    NEO AURORA  •  THE SYNTHWAVE ORCHESTRA  •  KAIZEN
+  </text>
+
+  <!-- Tier 2 Artists -->
+  <text x="341" y="125" font-family="'Arial Black', sans-serif" font-size="20" fill="#FFFFFF" letter-spacing="2" text-anchor="middle">
+    LUNAR PULSE  |  ECHO DRIFT  |  VELVET VOID  |  STATIC SHIFT
+  </text>
+  <!-- Tier 3 Artists -->
+  <text x="341" y="170" font-family="'Arial', sans-serif" font-weight="bold" font-size="16" fill="#06B6D4" letter-spacing="3" text-anchor="middle">
+    CYBERPUNK COLLECTIVE  •  MIDNIGHT RUNNERS  •  HYPERDRIVE  •  SOLARIS
+  </text>
+  <!-- Tier 4 Artists -->
+  <text x="341" y="210" font-family="'Arial', sans-serif" font-size="14" fill="#94A3B8" letter-spacing="2" text-anchor="middle">
+    ASTROBOY • BEAT MACHINE • NEON DUST • GLITCH MOB US • FUTURE SOUNDS
+  </text>
+</g>
+
+<!-- Highlights Pillars -->
+<g transform="translate(80, 840)">
+  <rect x="0" y="0" width="210" height="90" rx="10" fill="#14072B" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="105" y="38" font-family="'Arial Black', sans-serif" font-size="18" fill="#FBBF24" text-anchor="middle">4 STAGES</text>
+  <text x="105" y="62" font-family="'Arial', sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Non-Stop Immersive Audio</text>
+
+  <rect x="236" y="0" width="210" height="90" rx="10" fill="#14072B" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="105" y="38" font-family="'Arial Black', sans-serif" font-size="18" fill="#D946EF" text-anchor="middle">FOOD VILLAGE</text>
+  <text x="105" y="62" font-family="'Arial', sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">50+ Gourmet Trucks</text>
+
+  <rect x="472" y="0" width="210" height="90" rx="10" fill="#14072B" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="105" y="38" font-family="'Arial Black', sans-serif" font-size="18" fill="#06B6D4" text-anchor="middle">LIGHT SHOW</text>
+  <text x="105" y="62" font-family="'Arial', sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">3D Laser Projection</text>
+</g>
+
+<!-- Footer Ticket Info -->
+<g transform="translate(80, 990)">
+  <rect x="0" y="0" width="682" height="90" rx="16" fill="url(#magentaCyan)"/>
+  <text x="40" y="52" font-family="'Arial Black', sans-serif" font-size="26" fill="#0F0728">EARLY BIRD PASSES ON SALE NOW</text>
+  <rect x="490" y="20" width="160" height="50" rx="25" fill="#0F0728"/>
+  <text x="570" y="52" font-family="'Arial Black', sans-serif" font-size="16" fill="#FFFFFF" text-anchor="middle">GET TICKETS</text>
+</g>
+</svg>

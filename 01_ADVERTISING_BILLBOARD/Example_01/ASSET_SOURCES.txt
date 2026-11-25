@@ -1,0 +1,51 @@
+ASSET SOURCES DOCUMENTATION
+Category 01: Advertising Billboard - Example 01 (Automobile Advertisement - VELOCITY MOTORS)
+==========================================================================================
+
+1. car_luxury_coupe_studio.jpg
+   - Type: Studio Automotive Photograph (JPEG)
+   - Source: AI-generated (Google Antigravity Image Generator)
+   - License: Educational & Commercial Design Use (Project Generated Asset)
+   - Attribution: Not required (AI-generated original asset)
+
+2. car_luxury_coupe_transparent.png
+   - Type: Transparent Background Product Cutout (PNG with Alpha Channel)
+   - Source: AI-generated base image processed via alpha background removal
+   - License: Educational & Commercial Design Use (Project Generated Asset)
+   - Attribution: Not required (AI-generated original asset)
+
+3. velocity_motors_logo.svg
+   - Type: Scalable Vector Brand Logo (SVG)
+   - Source: Original custom vector artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+4. gold_speed_lines_decor.svg
+   - Type: Vector Decorative Elements & Frame Lines (SVG)
+   - Source: Original custom vector artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+5. dark_obsidian_bg.svg
+   - Type: Vector Studio Gradient Background (SVG)
+   - Source: Original custom vector artwork created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+6. color_palette.svg
+   - Type: Brand Colour Swatch Guide (CMYK / RGB / HEX)
+   - Source: Original vector specification created for this assignment
+   - License: CC0 / Free Educational Use
+   - Attribution: Not required
+
+7. icon_web_gold.svg & icon_speedometer_gold.svg
+   - Type: Vector UI Icons (SVG)
+   - Source: Material Design Icons via Iconify API (https://api.iconify.design/mdi/web.svg, https://api.iconify.design/mdi/speedometer.svg)
+   - License: Apache License 2.0 (https://github.com/Templarian/MaterialDesign/blob/master/LICENSE)
+   - Attribution: Material Design Icons by Pictogrammers (Apache 2.0)
+
+8. Montserrat-Variable.ttf
+   - Type: Open-Source Sans-Serif Typography Font (TrueType)
+   - Source: Google Fonts GitHub Repository (https://github.com/google/fonts/raw/main/ofl/montserrat/Montserrat%5Bwght%5D.ttf)
+   - License: SIL Open Font License 1.1 (see 11_ALL_ASSETS_LIBRARY/Fonts/Montserrat_OFL.txt)
+   - Attribution: Montserrat designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly

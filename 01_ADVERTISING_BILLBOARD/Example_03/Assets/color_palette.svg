@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <rect width="800" height="220" fill="#050811"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#FFFFFF">NOVA MOBILE - COLOUR PALETTE (CMYK / RGB / HEX)</text>
+  <g transform="translate(30,60)">
+    <rect width="130" height="90" rx="6" fill="#03060D" stroke="#223"/>
+    <text x="0" y="112" font-family="Arial" font-size="13" fill="#FFF">#03060D</text>
+    <text x="0" y="130" font-family="Arial" font-size="11" fill="#88A">C85 M75 Y60 K92</text>
+  </g>
+  <g transform="translate(180,60)">
+    <rect width="130" height="90" rx="6" fill="#091B3A" stroke="#223"/>
+    <text x="0" y="112" font-family="Arial" font-size="13" fill="#FFF">#091B3A</text>
+    <text x="0" y="130" font-family="Arial" font-size="11" fill="#88A">C96 M82 Y32 K50</text>
+  </g>
+  <g transform="translate(330,60)">
+    <rect width="130" height="90" rx="6" fill="#0066FF"/>
+    <text x="0" y="112" font-family="Arial" font-size="13" fill="#FFF">#0066FF</text>
+    <text x="0" y="130" font-family="Arial" font-size="11" fill="#88A">C88 M58 Y0 K0</text>
+  </g>
+  <g transform="translate(480,60)">
+    <rect width="130" height="90" rx="6" fill="#00D4FF"/>
+    <text x="0" y="112" font-family="Arial" font-size="13" fill="#FFF">#00D4FF</text>
+    <text x="0" y="130" font-family="Arial" font-size="11" fill="#88A">C70 M0 Y5 K0</text>
+  </g>
+  <g transform="translate(630,60)">
+    <rect width="130" height="90" rx="6" fill="#FFFFFF"/>
+    <text x="0" y="112" font-family="Arial" font-size="13" fill="#FFF">#FFFFFF</text>
+    <text x="0" y="130" font-family="Arial" font-size="11" fill="#88A">C0 M0 Y0 K0</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <radialGradient id="blueAura" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#0055CC"/>
+      <stop offset="45%" stop-color="#07152E"/>
+      <stop offset="100%" stop-color="#03060D"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#blueAura)"/>
+  <g stroke="#00D4FF" stroke-width="1" opacity="0.12" fill="none">
+    <line x1="0" y1="180" x2="1920" y2="180"/>
+    <line x1="0" y1="360" x2="1920" y2="360"/>
+    <line x1="0" y1="540" x2="1920" y2="540"/>
+    <line x1="0" y1="720" x2="1920" y2="720"/>
+    <line x1="0" y1="900" x2="1920" y2="900"/>
+    <line x1="320" y1="0" x2="320" y2="1080"/>
+    <line x1="640" y1="0" x2="640" y2="1080"/>
+    <line x1="960" y1="0" x2="960" y2="1080"/>
+    <line x1="1280" y1="0" x2="1280" y2="1080"/>
+    <line x1="1600" y1="0" x2="1600" y2="1080"/>
+    <circle cx="960" cy="540" r="380"/>
+    <circle cx="960" cy="540" r="520"/>
+  </g>
+</svg>

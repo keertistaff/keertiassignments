@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+<rect width="1080" height="1080" fill="#0A0A0A"/>
+
+<!-- Gritty Diagonal Slash Lines -->
+<g stroke="#1F2937" stroke-width="12" opacity="0.6">
+  <line x1="-100" y1="200" x2="1180" y2="900"/>
+  <line x1="-100" y1="350" x2="1180" y2="1050"/>
+  <line x1="-100" y1="50" x2="1180" y2="750"/>
+</g>
+
+<!-- Big Chevrons -->
+<g stroke="#A3E635" stroke-width="8" fill="none" opacity="0.3">
+  <polyline points="940,300 990,350 940,400"/>
+  <polyline points="970,300 1020,350 970,400"/>
+</g>
+
+<!-- Top Tag -->
+<g transform="translate(100, 100)">
+  <rect x="0" y="0" width="240" height="42" fill="#A3E635"/>
+  <text x="120" y="28" font-family="'Arial Black', sans-serif" font-size="17" fill="#0A0A0A" text-anchor="middle">IRON APEX CLUB</text>
+</g>
+<text x="980" y="130" font-family="'Arial Black', sans-serif" font-size="18" fill="#EA580C" text-anchor="end">#DAY_ONE_NOT_ONE_DAY</text>
+
+<!-- Bold Typography Centerpiece -->
+<g transform="translate(100, 260)">
+  <text x="0" y="100" font-family="'Arial Black', sans-serif" font-size="110" fill="#FFFFFF" letter-spacing="2">NO EXCUSES.</text>
+  <text x="0" y="210" font-family="'Arial Black', sans-serif" font-size="110" fill="#A3E635" letter-spacing="2">OWN YOUR</text>
+  <text x="0" y="320" font-family="'Arial Black', sans-serif" font-size="110" fill="#EA580C" letter-spacing="2">SWEAT.</text>
+</g>
+
+<!-- Supporting Copy -->
+<g transform="translate(100, 680)">
+  <text x="0" y="0" font-family="'Arial', sans-serif" font-weight="bold" font-size="26" fill="#F3F4F6">
+    Every champion was once a contender who refused to give up.
+  </text>
+  <text x="0" y="36" font-family="'Arial', sans-serif" font-size="20" fill="#9CA3AF">
+    Heavy compound training • 24/7 Elite facility • Certified strength coaches
+  </text>
+</g>
+
+<!-- Bottom Action Bar -->
+<g transform="translate(100, 880)">
+  <rect x="0" y="0" width="880" height="100" rx="14" fill="#171717" stroke="#374151" stroke-width="2"/>
+  <text x="40" y="45" font-family="'Arial Black', sans-serif" font-size="22" fill="#FFFFFF">CLAIM 7-DAY VIP PASS</text>
+  <text x="40" y="74" font-family="'Arial', sans-serif" font-size="14" fill="#A3E635">Use code APEX2026 at reception</text>
+
+  <rect x="640" y="22" width="200" height="56" rx="8" fill="#A3E635"/>
+  <text x="740" y="58" font-family="'Arial Black', sans-serif" font-size="18" fill="#0A0A0A" text-anchor="middle">JOIN NOW</text>
+</g>
+</svg>

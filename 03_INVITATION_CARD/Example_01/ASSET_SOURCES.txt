@@ -1,0 +1,3 @@
+ASSET SOURCES:
+1. Floral Filigree & Monogram Crest: Custom vector artwork created for this project (CC0)
+2. Typography: Playfair Display & Great Vibes (Google Fonts, OFL 1.1)

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842">
+<defs>
+  <linearGradient id="oceanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#082F49"/>
+    <stop offset="60%" stop-color="#0C4A6E"/>
+    <stop offset="100%" stop-color="#0284C7"/>
+  </linearGradient>
+  <linearGradient id="dropGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#0284C7"/>
+  </linearGradient>
+</defs>
+
+<rect width="595" height="842" fill="url(#oceanGrad)"/>
+
+<!-- Header -->
+<g transform="translate(45, 45)">
+  <rect x="0" y="0" width="170" height="22" rx="11" fill="#0C4A6E" stroke="#38BDF8" stroke-width="1"/>
+  <text x="85" y="15" fill="#38BDF8" font-family="'Arial', sans-serif" font-size="9" font-weight="bold" letter-spacing="2" text-anchor="middle">ECO AWARENESS CAMPAIGN</text>
+  <text x="0" y="60" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="29" letter-spacing="1">EVERY DROP COUNTS</text>
+  <text x="0" y="88" fill="#7DD3FC" font-family="'Arial Black', sans-serif" font-size="20">THE GLOBAL WATER CRISIS</text>
+  <text x="0" y="112" fill="#E2E8F0" font-family="'Arial', sans-serif" font-size="12">Understanding freshwater distribution and vital everyday conservation.</text>
+</g>
+
+<!-- Central Hero Water Drop Graphic -->
+<g transform="translate(45, 180)">
+  <!-- Big Droplet Outline -->
+  <g transform="translate(20, 10)">
+    <path d="M 90,0 C 90,0 0,110 0,170 A 90,90 0 0 0 180,170 C 180,110 90,0 90,0 Z" fill="url(#dropGrad)" opacity="0.9"/>
+    <circle cx="90" cy="170" r="50" fill="#0369A1" opacity="0.4"/>
+    <text x="90" y="165" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="34" text-anchor="middle">2.5%</text>
+    <text x="90" y="188" fill="#E0F2FE" font-family="'Arial', sans-serif" font-weight="bold" font-size="11" text-anchor="middle">ONLY FRESHWATER</text>
+  </g>
+
+  <!-- Right Distribution Stats -->
+  <g transform="translate(250, 20)">
+    <!-- 97.5% Saltwater -->
+    <rect x="0" y="0" width="245" height="65" rx="10" fill="#082F49" stroke="#0284C7" stroke-width="1"/>
+    <text x="20" y="38" fill="#38BDF8" font-family="'Arial Black', sans-serif" font-size="24">97.5%</text>
+    <text x="110" y="30" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="12">Saline Water</text>
+    <text x="110" y="46" fill="#94A3B8" font-family="'Arial', sans-serif" font-size="10">Oceans &amp; saline seas</text>
+
+    <!-- 68.7% Glaciers -->
+    <rect x="0" y="80" width="245" height="65" rx="10" fill="#082F49" stroke="#38BDF8" stroke-width="1"/>
+    <text x="20" y="118" fill="#7DD3FC" font-family="'Arial Black', sans-serif" font-size="24">68.7%</text>
+    <text x="110" y="110" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="12">Glaciers &amp; Ice Caps</text>
+    <text x="110" y="126" fill="#94A3B8" font-family="'Arial', sans-serif" font-size="10">Locked frozen water</text>
+
+    <!-- 30.1% Ground -->
+    <rect x="0" y="160" width="245" height="65" rx="10" fill="#082F49" stroke="#10B981" stroke-width="1"/>
+    <text x="20" y="198" fill="#34D399" font-family="'Arial Black', sans-serif" font-size="24">30.1%</text>
+    <text x="110" y="190" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="12">Groundwater</text>
+    <text x="110" y="206" fill="#94A3B8" font-family="'Arial', sans-serif" font-size="10">Deep aquifers &amp; soil</text>
+  </g>
+</g>
+
+<!-- 4 Actionable Conservation Cards -->
+<g transform="translate(45, 470)">
+  <text x="0" y="0" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="16" letter-spacing="1">4 WAYS TO SAVE WATER AT HOME</text>
+
+  <!-- Tip 1 -->
+  <g transform="translate(0, 20)">
+    <rect x="0" y="0" width="240" height="95" rx="12" fill="#075985" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="35" cy="48" r="20" fill="#0284C7"/>
+    <text x="35" y="54" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="14" text-anchor="middle">1</text>
+    <text x="68" y="38" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="13">Fix Leaky Faucets</text>
+    <text x="68" y="56" fill="#E0F2FE" font-family="'Arial', sans-serif" font-size="10">A dripping tap wastes up</text>
+    <text x="68" y="70" fill="#38BDF8" font-family="'Arial', sans-serif" font-weight="bold" font-size="11">to 20 Litres per day</text>
+  </g>
+
+  <!-- Tip 2 -->
+  <g transform="translate(265, 20)">
+    <rect x="0" y="0" width="240" height="95" rx="12" fill="#075985" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="35" cy="48" r="20" fill="#0284C7"/>
+    <text x="35" y="54" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="14" text-anchor="middle">2</text>
+    <text x="68" y="38" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="13">Install Aerators</text>
+    <text x="68" y="56" fill="#E0F2FE" font-family="'Arial', sans-serif" font-size="10">Low-flow tap aerators cut</text>
+    <text x="68" y="70" fill="#38BDF8" font-family="'Arial', sans-serif" font-weight="bold" font-size="11">water usage by 40%</text>
+  </g>
+
+  <!-- Tip 3 -->
+  <g transform="translate(0, 130)">
+    <rect x="0" y="0" width="240" height="95" rx="12" fill="#075985" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="35" cy="48" r="20" fill="#0284C7"/>
+    <text x="35" y="54" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="14" text-anchor="middle">3</text>
+    <text x="68" y="38" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="13">Shorter Showers</text>
+    <text x="68" y="56" fill="#E0F2FE" font-family="'Arial', sans-serif" font-size="10">Reducing by 3 minutes</text>
+    <text x="68" y="70" fill="#38BDF8" font-family="'Arial', sans-serif" font-weight="bold" font-size="11">saves 45 Litres/shower</text>
+  </g>
+
+  <!-- Tip 4 -->
+  <g transform="translate(265, 130)">
+    <rect x="0" y="0" width="240" height="95" rx="12" fill="#075985" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="35" cy="48" r="20" fill="#0284C7"/>
+    <text x="35" y="54" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-size="14" text-anchor="middle">4</text>
+    <text x="68" y="38" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="13">Rain Harvesting</text>
+    <text x="68" y="56" fill="#E0F2FE" font-family="'Arial', sans-serif" font-size="10">Collect rainwater for</text>
+    <text x="68" y="70" fill="#38BDF8" font-family="'Arial', sans-serif" font-weight="bold" font-size="11">garden &amp; cleaning needs</text>
+  </g>
+</g>
+
+<!-- Footer Banner -->
+<g transform="translate(45, 735)">
+  <rect x="0" y="0" width="505" height="60" rx="10" fill="#082F49" stroke="#0284C7" stroke-width="1"/>
+  <text x="252" y="36" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="bold" font-size="13" text-anchor="middle">
+    PROTECT WATER TODAY. PRESERVE TOMORROW.
+  </text>
+</g>
+</svg>

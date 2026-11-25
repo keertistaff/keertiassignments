@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs>
+  <linearGradient id="cocoaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#361C14"/>
+    <stop offset="50%" stop-color="#24140E"/>
+    <stop offset="100%" stop-color="#150A06"/>
+  </linearGradient>
+  <linearGradient id="goldFoilBar" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#F5DE9E"/>
+    <stop offset="50%" stop-color="#D49B43"/>
+    <stop offset="100%" stop-color="#A67324"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="600" fill="#F3F4F6"/>
+<text x="400" y="45" font-family="'Arial Black', sans-serif" font-size="18" fill="#24140E" text-anchor="middle">CHOCOBLISS 72% DARK CHOCOLATE WRAPPER (100g / 3.5 oz)</text>
+
+<!-- Wrapper Outer Frame (Back Fold, Front Display, Back Fold) -->
+<g transform="translate(100, 80)">
+  <!-- Back Left Fold (150 x 420) -->
+  <rect x="0" y="0" width="150" height="420" fill="url(#cocoaBg)" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <text x="75" y="40" font-family="'Arial Black', sans-serif" font-size="11" fill="url(#goldFoilBar)" text-anchor="middle">NUTRITION FACTS</text>
+  <rect x="20" y="55" width="110" height="150" fill="#FFF6EB" rx="4"/>
+  <text x="75" y="78" font-family="'Arial Black', sans-serif" font-size="10" fill="#24140E" text-anchor="middle">Serving Size: 30g</text>
+  <line x1="25" y1="86" x2="125" y2="86" stroke="#24140E" stroke-width="1"/>
+  <text x="30" y="105" font-family="'Arial', sans-serif" font-size="9" fill="#24140E">Calories: 170</text>
+  <text x="30" y="122" font-family="'Arial', sans-serif" font-size="9" fill="#24140E">Total Fat: 13g</text>
+  <text x="30" y="139" font-family="'Arial', sans-serif" font-size="9" fill="#24140E">Total Carb: 14g</text>
+  <text x="30" y="156" font-family="'Arial', sans-serif" font-size="9" fill="#24140E">Sugars: 8g</text>
+  <text x="30" y="173" font-family="'Arial', sans-serif" font-size="9" fill="#24140E">Protein: 3g</text>
+
+  <!-- Front Center Display (300 x 420) -->
+  <rect x="150" y="0" width="300" height="420" fill="url(#cocoaBg)" stroke="#DC2626" stroke-width="2"/>
+  <rect x="160" y="10" width="280" height="400" fill="none" stroke="url(#goldFoilBar)" stroke-width="1.5"/>
+
+  <!-- Brand Logo & Ornament -->
+  <g transform="translate(300, 75)">
+    <!-- Cacao Pod Vector -->
+    <path d="M 0,-30 C 18,-15 22,15 0,30 C -22,15 -18,-15 0,-30 Z" fill="url(#goldFoilBar)"/>
+    <text x="0" y="58" font-family="'Times New Roman', serif" font-size="28" font-style="italic" font-weight="bold" fill="url(#goldFoilBar)" text-anchor="middle">ChocoBliss</text>
+    <text x="0" y="80" font-family="'Arial', sans-serif" font-size="9" font-weight="bold" letter-spacing="4" fill="#D9BE9B" text-anchor="middle">SWISS MASTER CHOCOLATIERS</text>
+  </g>
+
+  <!-- Large 72% Badge -->
+  <g transform="translate(300, 230)">
+    <circle cx="0" cy="0" r="44" fill="#150A06" stroke="url(#goldFoilBar)" stroke-width="2"/>
+    <text x="0" y="10" font-family="'Arial Black', sans-serif" font-size="34" fill="url(#goldFoilBar)" text-anchor="middle">72%</text>
+    <text x="0" y="28" font-family="'Arial', sans-serif" font-size="9" font-weight="bold" letter-spacing="1" fill="#FFF6EB" text-anchor="middle">CACAO</text>
+  </g>
+
+  <text x="300" y="320" font-family="'Arial Black', sans-serif" font-size="16" letter-spacing="2" fill="#FFF6EB" text-anchor="middle">SINGLE ORIGIN ECUADOR</text>
+  <text x="300" y="342" font-family="'Arial', sans-serif" font-size="11" fill="#D9BE9B" text-anchor="middle">Slow Roasted with Notes of Roasted Almond &amp; Vanilla</text>
+  <text x="300" y="390" font-family="'Arial', sans-serif" font-weight="bold" font-size="12" letter-spacing="2" fill="url(#goldFoilBar)" text-anchor="middle">NET WT. 3.5 OZ (100g)</text>
+
+  <!-- Back Right Fold (150 x 420) -->
+  <rect x="450" y="0" width="150" height="420" fill="url(#cocoaBg)" stroke="#16A34A" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <text x="525" y="40" font-family="'Arial Black', sans-serif" font-size="11" fill="url(#goldFoilBar)" text-anchor="middle">INGREDIENTS</text>
+  <text x="525" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#D9BE9B" text-anchor="middle">
+    <tspan x="525" dy="0">Organic Cocoa Mass,</tspan>
+    <tspan x="525" dy="14">Cane Sugar, Cocoa Butter,</tspan>
+    <tspan x="525" dy="14">Madagascar Bourbon</tspan>
+    <tspan x="525" dy="14">Vanilla Beans.</tspan>
+  </text>
+  <!-- Barcode -->
+  <rect x="480" y="270" width="90" height="60" fill="#FFFFFF"/>
+  <text x="525" y="305" font-family="'Arial', sans-serif" font-size="9" fill="#000000" text-anchor="middle">|||| ||| |||||||</text>
+  <text x="525" y="320" font-family="'Arial', sans-serif" font-size="8" fill="#000000" text-anchor="middle">7 613035 123456</text>
+</g>
+</svg>
